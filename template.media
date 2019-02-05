@@ -1,0 +1,15 @@
+#[[------- FILE 01 -------]] [[------- FILE 02 -------]] [[------- FILE 03 -------]] [[------- FILE 04 -------]]                                                                                                            0                                                                                                  1                                                                                                   2                                                                               2
+#                                                                                                                0        1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8
+#                                                                                                                1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+ [[path/to/file01]]          [[path/to/file02]]          [[path/to/file03]]          [[path/to/file04]]          Tweet text goes here
+
+# Media file(s) come BEFORE tweet text. Use double brackets to encapsulate a media file.
+
+# Twitter currently accepts up to four photos OR one animated .gif OR one video.  BarnOwl
+# ignores any white space between the double brackets.  The text of a tweet begins after
+# any white space after the last media file you specify.
+
+# IMPORTANT: if you use this template for multiple tweets AND you set the .INI file's
+# "...TweetsReplyToID" option to a Twitter status ID number to create a thread, then your
+# first tweet MUST start with the Twitter handle (usually your own) that created the
+# tweet you will initially reply to.
