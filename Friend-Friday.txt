@@ -2,3 +2,4 @@
 @ObamaCryptogram for #cryptogram puzzles of tweets from the 44th President of the United States
 @QuoteCryptogram for #cryptogram puzzles of quotes by famous people throughout history
 @rsnbrgr, the author of the 'bot that runs this account (he likes to call himself "the man behind the curtain")
+@SolveCryptogram if you need help solving a #cryptogram puzzle. It can give a solution set or the plain text (your choice), and it can even create cryptograms for you. Check it out!
