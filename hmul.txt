@@ -1,0 +1,369 @@
+#                                                                                                  1                                                                                                   2                                                                               2
+#        1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8
+#234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+In its halcyon days, "Vmyths" provided resources the #antivirus industry couldn't muster\n\nIn this thread each Saturday, we shall peruse the Wayback Machine to study what Vmyths' #FAQs looked like from the 1990s through 2005...
+
+# Q&A / FAQ materials
+
+"How can the [name] virus be a hoax? It physically destroyed my computer and I've got the receipts to prove it"\nhttp://web.archive.org/web/20040427094225/http://vmyths.com/hoax.cfm?id=228&page=3
+"Would you send me some viruses for [insert reason here]?"\nhttp://web.archive.org/web/20040427102109/http://vmyths.com/hoax.cfm?id=232&page=3
+"Why isn't Vmyths worried about the threat of viruses?"\nhttp://web.archive.org/web/20040427104650/http://vmyths.com/hoax.cfm?id=234&page=3
+"I received a virus alert from an authoritative source. Should I forward it to my friends?"\nhttp://web.archive.org/web/20040427110232/http://vmyths.com/hoax.cfm?id=236&page=3
+"How often does virus hysteria occur?"\nhttp://web.archive.org/web/20040202015531/http://vmyths.com/hoax.cfm?id=258&page=3
+"Why don't you show misguided alert messages on Vmyths?"\nhttp://web.archive.org/web/20040427101649/http://vmyths.com/hoax.cfm?id=231&page=3
+"What does Vmyths think of antivirus companies in general?"\nhttp://web.archive.org/web/20040427103531/http://vmyths.com/hoax.cfm?id=233&page=3
+"What antivirus software do you recommend?" (hint: if you ask this, you're asking the *wrong* question)\nhttp://web.archive.org/web/20040427105306/http://vmyths.com/hoax.cfm?id=235&page=3
+"My friend forwarded a hoax virus alert to everyone. What can I do to help?"\nhttp://web.archive.org/web/20040427111209/http://vmyths.com/hoax.cfm?id=271&page=3
+
+#                                                                                                  1                                                                                                   2                                                                               2
+#        1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8
+#234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+In its halcyon days, "Vmyths" provided resources the #antivirus industry couldn't muster\n\nIn this thread each Tuesday, we shall peruse the Wayback Machine to study #HOAX virus alerts that inundated email accounts from the 1990s through 2005...
+
+# Hoax virus alerts
+"Good Times virus"\nhttp://web.archive.org/web/20041216050641/http://vmyths.com/hoax.cfm?id=14&page=3
+"Penpal Greetings virus"\nhttp://web.archive.org/web/20040428065434/http://vmyths.com/hoax.cfm?id=15&page=3
+"14.4k modem virus"\nhttp://web.archive.org/web/20040518095629/http://vmyths.com/hoax.cfm?id=18&page=3
+"2400 baud modem subcarrier virus"\nhttp://web.archive.org/web/20040616151849/http://www.vmyths.com/hoax.cfm?id=19&page=3
+"A Bug's Life screen saver virus"\nhttp://web.archive.org/web/20040518114837/http://vmyths.com/hoax.cfm?id=21&page=3
+"AF1 virus"\nhttp://web.archive.org/web/20040518114755/http://vmyths.com/hoax.cfm?id=22&page=3
+"A.I.D.S. [computer] virus" (aka "Open Very Cool virus")\nhttp://web.archive.org/web/20040518115109/http://vmyths.com/hoax.cfm?id=23&page=3
+"AOL v4.0 cookie Trojan"\nhttp://web.archive.org/web/20050214224143/http://www.vmyths.com/hoax.cfm?id=27&page=3
+"AOL hacker riot/virus threat"\nhttp://web.archive.org/web/20050320090518/http://vmyths.com/hoax.cfm?id=28&page=3
+"AOL IM Trojan/virus"\nhttp://web.archive.org/web/20050214224331/http://www.vmyths.com/hoax.cfm?id=29&page=3
+"AOL4FREE Trojan/virus" (aka "O14FREE virus" aka "VPDOWINIT Trojan/virus")\nhttp://web.archive.org/web/20050210184450/http://www.vmyths.com/hoax.cfm?id=31&page=3
+"ASP virus"\nhttp://web.archive.org/web/20050214224300/http://www.vmyths.com/hoax.cfm?id=34&page=3
+"ATM virus"\nhttp://web.archive.org/web/20050214224323/http://www.vmyths.com/hoax.cfm?id=35&page=3
+"Baby New Year virus" (aka "New Year's Baby virus")\nhttp://web.archive.org/web/20050214224311/http://www.vmyths.com/hoax.cfm?id=37&page=3
+"Be My Valentine virus" (aka "Valentine virus")\nhttp://web.archive.org/web/20050214224316/http://www.vmyths.com/hoax.cfm?id=38&page=3
+"Bill Gates $1,000 virus" (aka "EEVP virus")\nhttp://web.archive.org/web/20050214224247/http://www.vmyths.com/hoax.cfm?id=39&page=3
+"Bloat MP3 virus"\nhttp://web.archive.org/web/20051126191102/http://vmyths.com/hoax.cfm?id=41&page=3
+"Blue Mountain greeting card Trojan/virus"\nhttp://web.archive.org/web/20050208192027/http://vmyths.com/hoax.cfm?id=43&page=3
+"Bud Frogs virus" (aka "Budweiser virus")\nhttp://web.archive.org/web/20050206175530/http://www.vmyths.com/hoax.cfm?id=44&page=3
+"BuddyLst virus" (aka "BuddyList virus")\nhttp://web.archive.org/web/20050214224252/http://www.vmyths.com/hoax.cfm?id=45&page=3
+"CELCOM screen saver virus"\nhttp://web.archive.org/web/20050212035318/http://www.vmyths.com/hoax.cfm?id=51&page=3
+"Death69 virus" (aka "Death-Blaze virus")\nhttp://web.archive.org/web/20050214224047/http://www.vmyths.com/hoax.cfm?id=57&page=3
+"Deeyenda Maddick virus"\nhttp://web.archive.org/web/20050214224101/http://www.vmyths.com/hoax.cfm?id=60&page=3
+"Direct-threat chain letters"\nhttp://web.archive.org/web/20050214224241/http://www.vmyths.com/hoax.cfm?id=61&page=3
+"Don't Drink Too Much virus"\nhttp://web.archive.org/web/20050214223917/http://www.vmyths.com/hoax.cfm?id=274&page=3
+"FatCat virus"\nhttp://web.archive.org/web/20050218111118/http://www.vmyths.com/hoax.cfm?id=69&page=3
+"Hacky Birthday virus"\nhttp://web.archive.org/web/20041224184720/http://vmyths.com/hoax.cfm?id=78&page=3
+"Hairy Palms Trojan"\nhhttp://web.archive.org/web/20041224165927/http://vmyths.com/hoax.cfm?id=79&page=3
+"Hey You virus"\nhttp://web.archive.org/web/20050405050049/http://vmyths.com/hoax.cfm?id=83&page=3
+"How to Give a Cat a Colonic virus"\nhttp://web.archive.org/web/20041224180844/http://vmyths.com/hoax.cfm?id=85&page=3
+"It takes guts to say 'Jesus' virus"\nhttp://web.archive.org/web/20050207003133/http://vmyths.com/hoax.cfm?id=91&page=3
+"Join the Crew virus"\nhttp://web.archive.org/web/20050403114050/http://vmyths.com/hoax.cfm?id=94&page=3
+"Let's watch TV virus" (aka "Kali virus" aka "TV virus")\nhttp://web.archive.org/web/20050215200409/http://www.vmyths.com/hoax.cfm?id=98&page=3
+"Londhouse AltaVista virus" (aka "Hackingburgh virus")\nhttp://web.archive.org/web/20050214224216/http://www.vmyths.com/hoax.cfm?id=24&page=3
+"Lump of Coal virus"\nhttp://web.archive.org/web/20050214223942/http://www.vmyths.com/hoax.cfm?id=102&page=3
+"Make Money Fast virus" (aka "MMF virus")\nhttp://web.archive.org/web/20050412024008/http://vmyths.com/hoax.cfm?id=104&page=3
+"Malicious joke home pages"\nhttp://web.archive.org/web/20050412210822/http://vmyths.com/hoax.cfm?id=105&page=3
+"Meme virus"\nhttp://web.archive.org/web/20050412204844/http://vmyths.com/hoax.cfm?id=106&page=3
+"Memphis.98.MMS virus"\nhttp://web.archive.org/web/20050412205633/http://vmyths.com/hoax.cfm?id=107&page=3
+"mIRC Ananas script.ini worm"\nhttp://web.archive.org/web/20050215202109/http://www.vmyths.com/hoax.cfm?id=113&page=3
+"Mobile Phone virus" (aka "Cellular Phone virus")\nhttp://web.archive.org/web/20050215202049/http://www.vmyths.com/hoax.cfm?id=115&page=3
+"Moment of Silence virus"\nhttp://web.archive.org/web/20040223154240/http://vmyths.com/hoax.cfm?id=117&page=3
+"Mindbender virus"\nhttp://web.archive.org/web/20050215201957/http://www.vmyths.com/hoax.cfm?id=206&page=3
+"NaughtyRobot spider"\nhttp://web.archive.org/web/20040427150812/http://vmyths.com/hoax.cfm?id=119&page=3
+"Norton AntiVirus v5 alert"\nhttp://web.archive.org/web/20040427154419/http://vmyths.com/hoax.cfm?id=122&page=3
+"Penal Greetings virus"\nhttp://web.archive.org/web/20040428061928/http://vmyths.com/hoax.cfm?id=129&page=3
+"PKZIP300 virus"\nhttp://web.archive.org/web/20040428064734/http://vmyths.com/hoax.cfm?id=131&page=3
+"PKZ300B Trojan/virus"\nhttp://web.archive.org/web/20040428063640/http://vmyths.com/hoax.cfm?id=130&page=3
+"Sound Card virus"\nhttp://web.archive.org/web/20040427164952/http://vmyths.com/hoax.cfm?id=141&page=3
+"Red Alert virus" (aka "Microsoft home page virus")\nhttp://web.archive.org/web/20050218223950/http://www.vmyths.com/hoax.cfm?id=132&page=3
+"Returned/Unable to Deliver virus" (aka "Returned Mail virus" aka "Undeliverable Mail virus")\nhttp://web.archive.org/web/20040427145958/http://vmyths.com/hoax.cfm?id=134&page=3
+"Symantec SARC Virus Test virus"\nhttp://web.archive.org/web/20040427160343/http://vmyths.com/hoax.cfm?id=136&page=3
+"Teletubbies virus" (aka "Yellow Teletubby virus")\nhttp://web.archive.org/web/20040427120107/http://vmyths.com/hoax.cfm?id=145&page=3
+"Time Bomb virus" (aka "Win95.Time Bomb virus")\nhttp://web.archive.org/web/20040427120956/http://vmyths.com/hoax.cfm?id=146&page=3
+"Tuxissa virus"\nhttp://web.archive.org/web/20040427122103/http://vmyths.com/hoax.cfm?id=147&page=3
+"Valentine's Greeting virus"\nhttp://web.archive.org/web/20040620204956/http://www.vmyths.com/hoax.cfm?id=152&page=3
+"Combination virus alerts"\nhttp://web.archive.org/web/20050212035306/http://www.vmyths.com/hoax.cfm?id=153&page=3
+"Win a Holiday virus" (aka "Help a Poor Dog Win a Holiday virus")\nhttp://web.archive.org/web/20041216024335/http://www.vmyths.com/hoax.cfm?id=158&page=3
+"Wobbler virus" (aka "California virus" aka "Evil The Cat virus")\nhttp://web.archive.org/web/20041216024946/http://www.vmyths.com/hoax.cfm?id=162&page=3
+"Yahoo! world domination virus"\nhttp://web.archive.org/web/20040518094615/http://vmyths.com/hoax.cfm?id=166&page=3
+"Yukon3U Trojan/virus"\nhttp://web.archive.org/web/20040518094509/http://vmyths.com/hoax.cfm?id=169&page=3
+"Flaming monitor virus" (aka "Death Ray virus")\nhttp://web.archive.org/web/20050214223924/http://vmyths.com/hoax.cfm?id=207&page=3
+"All Seeing Eye virus" (aka "We Are Watching You virus")\nhttp://web.archive.org/web/20040325042120/http://vmyths.com/hoax.cfm?id=211&page=3
+"Perrin.exe virus" (aka "Upgrade Internet2 virus" aka "Virus With No Cure virus")\nhttp://web.archive.org/web/20040428074422/http://vmyths.com/hoax.cfm?id=217&page=3
+"Internet Flower for You virus"\nhttp://web.archive.org/web/20050214224136/http://www.vmyths.com/hoax.cfm?id=220&page=3
+"A Virtual Card for You virus" (aka "Trilha Zero virus" aka "Virtual Postcard for You virus")\nhttp://web.archive.org/web/20041216024911/http://www.vmyths.com/hoax.cfm?id=222&page=3
+"Pool Party virus"\nhttp://web.archive.org/web/20040102034609/http://vmyths.com/hoax.cfm?id=226&page=3
+"Family Pictures virus" (aka "New Pictures of Family virus" aka "New Family Pictures virus")\nhttp://web.archive.org/web/20040621234708/http://vmyths.com/hoax.cfm?id=242&page=3
+"MusicPanel (MP3) virus"\nhttp://web.archive.org/web/20040405030628/http://www.vmyths.com/hoax.cfm?id=261&page=3
+"WTC Survivor virus"\nhttp://web.archive.org/web/20040409171333/http://vmyths.com/hoax.cfm?id=269&page=3
+"Economic slowdown in US virus"\nhttp://web.archive.org/web/20050214223752/http://www.vmyths.com/hoax.cfm?id=270&page=3
+"Life is Beautiful virus"\nhttp://web.archive.org/web/20050408175649/http://vmyths.com/hoax.cfm?id=277&page=3
+"XXX-1 virus"\nhttp://web.archive.org/web/20040518093303/http://vmyths.com/hoax.cfm?id=164&page=3
+
+#                                                                                                  1                                                                                                   2                                                                               2
+#        1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8
+#234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+In its halcyon days, "Vmyths" provided resources the #antivirus industry couldn't muster\n\nIn this thread each Wednesday, we shall peruse the Wayback Machine to enjoy #JOKE virus alerts (NOT hoaxes) that amused us from the 1990s through 2005...
+
+# Joke virus alerts (not considered hoaxes)
+"NSA printer virus (April Fool story)" (aka "Iraqi printer virus")\nhttp://web.archive.org/web/20051210052329/http://vmyths.com/hoax.cfm?id=123&page=3\n\nAnd see the follow-up!\nhttps://t.co/tZYEcwbua7
+"JPEG virus alert" (aka "GIF virus alert" aka "Graphic file virus")\nhttp://web.archive.org/web/19981205175923/http://www.2meta.com:80/april-fools/1994/JPEG-Virus.html
+"Alien/OS virus" (aka "ID4 virus")\nhttp://web.archive.org/web/20040530153317/http://vmyths.com/hoax.cfm?id=33&page=3
+"Little Drummer Boy virus"\nhttp://web.archive.org/web/20040926174938/http://vmyths.com/hoax.cfm?id=100&page=3
+"Honor System virus"\nhttp://web.archive.org/web/20050405045452/http://vmyths.com/hoax.cfm?id=199&page=3
+"Badtimes virus"\nhttp://web.archive.org/web/20050214224108/http://www.vmyths.com/hoax.cfm?id=200&page=3
+"AOL.EXE virus alert"\nhttp://web.archive.org/web/20041216051110/http://vmyths.com/hoax.cfm?id=259&page=3
+"MP3 virus (April Fool joke)"\nhttp://web.archive.org/web/20071019040822/http://www.vmyths.com:80/hmul/4/5
+"Malwarlaria virus (April Fool story)"\nhttp://web.archive.org/web/20071019040822/http://www.vmyths.com/hmul/4/6
+"Wireless TV virus (April Fool story)"\nhttp://web.archive.org/web/20071019040822/http://www.vmyths.com/hmul/4/7
+"Human contact spreads PC viruses (April Fool story)"\nhttp://web.archive.org/web/20050730085410/http://www.vmyths.com/hoax.cfm?id=292&page=3
+
+#                                                                                                  1                                                                                                   2                                                                               2
+#        1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8
+#234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+In its halcyon days, "Vmyths" provided resources the #antivirus industry couldn't muster\n\nIn this thread each Friday, we shall peruse the Wayback Machine to study the MEDIA FLOPS & FIASCOES about computer viruses from 1986 (!) through 2005...
+
+# Media flops & fiascoes
+"1986 USPA&IRA virus/Trojan"\nhttp://web.archive.org/web/20040417111653/http://vmyths.com/hoax.cfm?id=150&page=3
+[[/home/rob/Twitter/accounts/vmyths/hmul/photos/Morris.png]] "1988 Morris Internet worm" (featuring John McAfee's ludicrous damage #guesstimate)\nhttp://web.archive.org/web/20050215215201/http://vmyths.com/hoax.cfm?id=213&page=3
+"1989 Columbus Day virus (aka 'DataCrime virus'), the first media fiasco"\nhttp://web.archive.org/web/20050210190654/http://vmyths.com/hoax.cfm?id=55&page=3
+"1991 NSA printer virus"\nhttp://web.archive.org/web/20040427155136/http://vmyths.com/hoax.cfm?id=123&page=3\n\nAnd see the follow-up!\nhttp://web.archive.org/web/20180822153219/http://vmyths.com/2010/11/28/wwii
+"1992 Michelangelo Fiasco: a Historical Timeline" (featuring #Intel, #Symantec, #McAfee, and the late #rossmgreenberg!)\nhttp://web.archive.org/web/19970328190017/http://www.kumite.com/myths/opinion/michtime.htm
+"1996 Hare Fiasco: a Historical Timeline" (featuring #TrendMicro, #McAfee, and #Symantec)\nhttp://web.archive.org/web/19970328190222/http://www.kumite.com/myths/opinion/haretime.htm
+"1996 Win95.Boza virus"\nhttp://web.archive.org/web/20050218111243/http://www.vmyths.com/hoax.cfm?id=159&page=3
+"1996 Netscape letter bomb email threat" (aka "Email letter bomb virus" aka "HTML page o' death threat") featuring #lseltzer\nhttp://web.archive.org/web/20050215202033/http://www.vmyths.com/hoax.cfm?id=120&page=3
+"1996-98 Java Trojans/viruses" (aka "Spider Black Widow Java viruses")\nhttp://web.archive.org/web/20041224182355/http://vmyths.com/hoax.cfm?id=40&page=3
+"1997 ShareFun.A virus" featuring a key insight from #gcluley\nhttp://web.archive.org/web/20040427162925/http://vmyths.com/hoax.cfm?id=138&page=3
+"1999 W32.Kriz virus" (aka "Win32.Kriz virus")\nhttp://web.archive.org/web/20050217131645/http://www.vmyths.com/hoax.cfm?id=155&page=3
+"1999 The Y2K Virus Media Fiasco"\nhttp://web.archive.org/web/20040427073710/http://vmyths.com/hoax.cfm?id=165&page=3
+"2000 Pokémon Pikachu worm/Trojan"\nhttp://web.archive.org/web/20040428073140/http://vmyths.com/hoax.cfm?id=209&page=3
+"2000 #FBI '911' virus"\nhttp://web.archive.org/web/20040507101146/http://vmyths.com/hoax.cfm?id=20&page=3
+"2001 W97M/Melissa.W virus"\nhttp://web.archive.org/web/20040508201620/http://www.vmyths.com/hoax.cfm?id=237&page=3
+"2001 Valentine's Day hysteria"\nhttp://web.archive.org/web/20040622061124/http://www.vmyths.com/hoax.cfm?id=239&page=3
+"2001 #FBI alert of Chinese hacker riot"\nhttp://web.archive.org/web/20050210233151/http://www.vmyths.com/hoax.cfm?id=252&page=3
+"2001 HomePage virus/worm"\nhttp://web.archive.org/web/20050405081410/http://vmyths.com/hoax.cfm?id=256&page=3
+"2001 Kournikova virus" (aka "SST virus")\nhttp://web.archive.org/web/20050405070850/http://vmyths.com/hoax.cfm?id=240&page=3
+"2001 NakedWife worm/virus" (aka "Naked Wife worm/virus")\nhttp://web.archive.org/web/20040427161433/http://vmyths.com/hoax.cfm?id=249&page=3
+"2001 Nimda virus/worm" (and Vmyths never waivered from this assessment)\nhttp://web.archive.org/web/20040427165227/http://vmyths.com/hoax.cfm?id=267&page=3
+"2003 Hacker 'Defacers Challenge'"\nhttp://web.archive.org/web/20050321211206/http://www.vmyths.com/hoax.cfm?id=279&page=3
+"2004 Islamic cyber-terror attack ('electronic jihad')"\nhttp://web.archive.org/web/20051124232213/http://vmyths.com/hoax.cfm?id=281&page=3
+"2004 Colorado Dept. of Motor Vehicles 'virus' attack"\nhttp://web.archive.org/web/20050206162049/http://www.vmyths.com/hoax.cfm?id=283&page=3
+"2005 Lexus automobile virus" (featuring #kaspersky and #DQStuff)\nhttp://web.archive.org/web/20050317093629/http://vmyths.com/hoax.cfm?id=284&page=3
+
+#                                                                                                  1                                                                                                   2                                                                               2
+#        1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8
+#234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+In its halcyon days, "Vmyths" provided resources the #antivirus industry couldn't muster\n\nIn this thread each Monday, we shall peruse the Wayback Machine to study the POOR ADVICE non-experts spouted from the 1990s through 2005...
+
+
+# Poor advice from non-experts
+"0000 trick" (or "!0000 trick" or "How to stop the spread of viruses")\nhttp://web.archive.org/web/20040409165543/http://vmyths.com/hoax.cfm?id=263&page=3
+"AOL password-stealing Trojan/virus"\nhttp://web.archive.org/web/20050327180454/http://vmyths.com/hoax.cfm?id=210&page=3
+"PrettyPark worm/virus" (aka "Pretty Park worm/virus")\nhttp://web.archive.org/web/20040428073942/http://vmyths.com/hoax.cfm?id=216&page=3
+"SHS file Trojan/virus" (aka "scrap object .SHS Trojan/virus")\nhttp://web.archive.org/web/20040621225707/http://www.vmyths.com/hoax.cfm?id=140&page=3
+"Sircam worm/virus"\nhttp://web.archive.org/web/20040427163348/http://vmyths.com/hoax.cfm?id=262&page=3
+
+#                                                                                                  1                                                                                                   2                                                                               2
+#        1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8
+#234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+In its halcyon days, "Vmyths" provided resources the #antivirus industry couldn't muster\n\nIn this thread each Thursday, we shall peruse the Wayback Machine to study PUBLICITY STUNT VIRUS ALERTS that plagued us from the 1990s through 2005...
+
+# Publicity stunt virus alerts
+"Daisy Chain virus"\nhttp://web.archive.org/web/20050214224019/http://www.vmyths.com/hoax.cfm?id=56&page=3
+"Irina virus" (with key reporting from #gcluley)\nhttp://web.archive.org/web/20041110005821/http://vmyths.com/hoax.cfm?id=204&page=3
+"Lions Den virus"\nhttp://web.archive.org/web/20050408174923/http://vmyths.com/hoax.cfm?id=273&page=3
+"The New Ice Age virus"\nhttp://web.archive.org/web/20040223141500/http://vmyths.com/hoax.cfm?id=245&page=3
+"MTX virus 'hotline' (900 number)"\nhttp://web.archive.org/web/20040427125307/http://vmyths.com/hoax.cfm?id=225&page=3
+
+#                                                                                                  1                                                                                                   2                                                                               2
+#        1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8
+#234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+# YouTube PSAs
+YouTube: "Vmyths: All Hail The Jerk""\nhttps://www.youtube.com/watch?v=N9MRdGYUQR8
+YouTube: "ISIS Bucket Challenge For Computer Security"\nhttps://www.youtube.com/watch?v=RHDP5UR4RI4
+YouTube: "Unsolicited Testimonial" (skip to 10:00 mark to realize *why* I filmed this video)\nhttps://www.youtube.com/watch?v=N4hfrEeNoSw&t=10m
+
+# Urban Legends:
+Urban Legend\n\n"Aureate DLLs Trojan"\nhttp://web.archive.org/web/20050208153521/http://vmyths.com/hoax.cfm?id=36&page=3
+Urban Legend\n\n"Blue Mountain greeting card Trojan/virus"\nhttp://web.archive.org/web/20050208192027/http://vmyths.com/hoax.cfm?id=43&page=3
+Urban Legend\n\n"ElfBowl virus"\nhttp://web.archive.org/web/20050218111315/http://www.vmyths.com/hoax.cfm?id=70&page=3
+Urban Legend\n\n"Frog-A-Pult virus"\nhttp://web.archive.org/web/20050218111315/http://www.vmyths.com/hoax.cfm?id=70&page=3
+Urban Legend\n\n"ICQ Trojan/virus" (aka "Mirabilis Trojan/virus)\nhttp://web.archive.org/web/20050405063236/http://vmyths.com/hoax.cfm?id=87&page=3
+Urban Legend\n\n"Microsoft Win95 Install Disk #2 infected with virus"\nhttp://web.archive.org/web/20040427130931/http://vmyths.com/hoax.cfm?id=110&page=3
+Urban Legend\n\n"SandMan hacker alert"\nhttp://web.archive.org/web/20040427155933/http://vmyths.com/hoax.cfm?id=135&page=3
+Urban Legend\n\n"Sheep virus"\nhttp://web.archive.org/web/20040427163514/http://vmyths.com/hoax.cfm?id=139&page=3
+Urban Legend\n\n"sulfnbk.exe virus"\nhttp://web.archive.org/web/20050519083506/http://www.vmyths.com/hoax.cfm?id=257&page=3
+Urban Legend\n\n"jdbgmgr.exe virus" (aka "Teddy Bear virus")\nhttp://web.archive.org/web/20050511084307/http://www.vmyths.com/hoax.cfm?id=275&page=3
+Urban Legend\n\n"Timothy McVeigh execution virus"\nhttp://web.archive.org/web/20040405025206/http://www.vmyths.com/hoax.cfm?id=260&page=3
+
+# Hoax alerts
+Hoax Alert\n\n"Good Times virus"\nhttp://web.archive.org/web/20041216050641/http://vmyths.com/hoax.cfm?id=14&page=3
+Hoax Alert\n\n"Penpal Greetings virus"\nhttp://web.archive.org/web/20040428065434/http://vmyths.com/hoax.cfm?id=15&page=3
+Hoax Alert\n\n"14.4k modem virus"\nhttp://web.archive.org/web/20040518095629/http://vmyths.com/hoax.cfm?id=18&page=3
+Hoax Alert\n\n"2400 baud modem subcarrier virus"\nhttp://web.archive.org/web/20040616151849/http://www.vmyths.com/hoax.cfm?id=19&page=3
+Hoax Alert\n\n"A Bug's Life screen saver virus"\nhttp://web.archive.org/web/20040518114837/http://vmyths.com/hoax.cfm?id=21&page=3
+Hoax Alert\n\n"AF1 virus"\nhttp://web.archive.org/web/20040518114755/http://vmyths.com/hoax.cfm?id=22&page=3
+Hoax Alert\n\n"A.I.D.S. [computer] virus" (aka "Open Very Cool virus")\nhttp://web.archive.org/web/20040518115109/http://vmyths.com/hoax.cfm?id=23&page=3
+Hoax Alert\n\n"AOL v4.0 cookie Trojan"\nhttp://web.archive.org/web/20050214224143/http://www.vmyths.com/hoax.cfm?id=27&page=3
+Hoax Alert\n\n"AOL hacker riot/virus threat"\nhttp://web.archive.org/web/20050320090518/http://vmyths.com/hoax.cfm?id=28&page=3
+Hoax Alert\n\n"AOL IM Trojan/virus"\nhttp://web.archive.org/web/20050214224331/http://www.vmyths.com/hoax.cfm?id=29&page=3
+Hoax Alert\n\n"AOL4FREE Trojan/virus" (aka "O14FREE virus" aka "VPDOWINIT Trojan/virus")\nhttp://web.archive.org/web/20050210184450/http://www.vmyths.com/hoax.cfm?id=31&page=3
+Hoax Alert\n\n"ASP virus"\nhttp://web.archive.org/web/20050214224300/http://www.vmyths.com/hoax.cfm?id=34&page=3
+Hoax Alert\n\n"ATM virus"\nhttp://web.archive.org/web/20050214224323/http://www.vmyths.com/hoax.cfm?id=35&page=3
+Hoax Alert\n\n"Baby New Year virus" (aka "New Year's Baby virus")\nhttp://web.archive.org/web/20050214224311/http://www.vmyths.com/hoax.cfm?id=37&page=3
+Hoax Alert\n\n"Be My Valentine virus" (aka "Valentine virus")\nhttp://web.archive.org/web/20050214224316/http://www.vmyths.com/hoax.cfm?id=38&page=3
+Hoax Alert\n\n"Bill Gates $1,000 virus" (aka "EEVP virus")\nhttp://web.archive.org/web/20050214224247/http://www.vmyths.com/hoax.cfm?id=39&page=3
+Hoax Alert\n\n"Bloat MP3 virus"\nhttp://web.archive.org/web/20051126191102/http://vmyths.com/hoax.cfm?id=41&page=3
+Hoax Alert\n\n"Blue Mountain greeting card Trojan/virus"\nhttp://web.archive.org/web/20050208192027/http://vmyths.com/hoax.cfm?id=43&page=3
+Hoax Alert\n\n"Bud Frogs virus" (aka "Budweiser virus")\nhttp://web.archive.org/web/20050206175530/http://www.vmyths.com/hoax.cfm?id=44&page=3
+Hoax Alert\n\n"BuddyLst virus" (aka "BuddyList virus")\nhttp://web.archive.org/web/20050214224252/http://www.vmyths.com/hoax.cfm?id=45&page=3
+Hoax Alert\n\n"CELCOM screen saver virus"\nhttp://web.archive.org/web/20050212035318/http://www.vmyths.com/hoax.cfm?id=51&page=3
+Hoax Alert\n\n"Death69 virus" (aka "Death-Blaze virus")\nhttp://web.archive.org/web/20050214224047/http://www.vmyths.com/hoax.cfm?id=57&page=3
+Hoax Alert\n\n"Deeyenda Maddick virus"\nhttp://web.archive.org/web/20050214224101/http://www.vmyths.com/hoax.cfm?id=60&page=3
+Hoax Alert\n\n"Direct-threat chain letters"\nhttp://web.archive.org/web/20050214224241/http://www.vmyths.com/hoax.cfm?id=61&page=3
+Hoax Alert\n\n"Don't Drink Too Much virus"\nhttp://web.archive.org/web/20050214223917/http://www.vmyths.com/hoax.cfm?id=274&page=3
+Hoax Alert\n\n"FatCat virus"\nhttp://web.archive.org/web/20050218111118/http://www.vmyths.com/hoax.cfm?id=69&page=3
+Hoax Alert\n\n"Hacky Birthday virus"\nhttp://web.archive.org/web/20041224184720/http://vmyths.com/hoax.cfm?id=78&page=3
+Hoax Alert\n\n"Hairy Palms Trojan"\nhhttp://web.archive.org/web/20041224165927/http://vmyths.com/hoax.cfm?id=79&page=3
+Hoax Alert\n\n"Hey You virus"\nhttp://web.archive.org/web/20050405050049/http://vmyths.com/hoax.cfm?id=83&page=3
+Hoax Alert\n\n"How to Give a Cat a Colonic virus"\nhttp://web.archive.org/web/20041224180844/http://vmyths.com/hoax.cfm?id=85&page=3
+Hoax Alert\n\n"It takes guts to say 'Jesus' virus"\nhttp://web.archive.org/web/20050207003133/http://vmyths.com/hoax.cfm?id=91&page=3
+Hoax Alert\n\n"Join the Crew virus"\nhttp://web.archive.org/web/20050403114050/http://vmyths.com/hoax.cfm?id=94&page=3
+Hoax Alert\n\n"Let's watch TV virus" (aka "Kali virus" aka "TV virus")\nhttp://web.archive.org/web/20050215200409/http://www.vmyths.com/hoax.cfm?id=98&page=3
+Hoax Alert\n\n"Londhouse AltaVista virus" (aka "Hackingburgh virus")\nhttp://web.archive.org/web/20050214224216/http://www.vmyths.com/hoax.cfm?id=24&page=3
+Hoax Alert\n\n"Lump of Coal virus"\nhttp://web.archive.org/web/20050214223942/http://www.vmyths.com/hoax.cfm?id=102&page=3
+Hoax Alert\n\n"Make Money Fast virus" (aka "MMF virus")\nhttp://web.archive.org/web/20050412024008/http://vmyths.com/hoax.cfm?id=104&page=3
+Hoax Alert\n\n"Malicious joke home pages"\nhttp://web.archive.org/web/20050412210822/http://vmyths.com/hoax.cfm?id=105&page=3
+Hoax Alert\n\n"Meme virus"\nhttp://web.archive.org/web/20050412204844/http://vmyths.com/hoax.cfm?id=106&page=3
+Hoax Alert\n\n"Memphis.98.MMS virus"\nhttp://web.archive.org/web/20050412205633/http://vmyths.com/hoax.cfm?id=107&page=3
+Hoax Alert\n\n"mIRC Ananas script.ini worm"\nhttp://web.archive.org/web/20050215202109/http://www.vmyths.com/hoax.cfm?id=113&page=3
+Hoax Alert\n\n"Mobile Phone virus" (aka "Cellular Phone virus")\nhttp://web.archive.org/web/20050215202049/http://www.vmyths.com/hoax.cfm?id=115&page=3
+Hoax Alert\n\n"Moment of Silence virus"\nhttp://web.archive.org/web/20040223154240/http://vmyths.com/hoax.cfm?id=117&page=3
+Hoax Alert\n\n"Mindbender virus"\nhttp://web.archive.org/web/20050215201957/http://www.vmyths.com/hoax.cfm?id=206&page=3
+Hoax Alert\n\n"NaughtyRobot spider"\nhttp://web.archive.org/web/20040427150812/http://vmyths.com/hoax.cfm?id=119&page=3
+Hoax Alert\n\n"Norton AntiVirus v5 alert"\nhttp://web.archive.org/web/20040427154419/http://vmyths.com/hoax.cfm?id=122&page=3
+Hoax Alert\n\n"Penal Greetings virus"\nhttp://web.archive.org/web/20040428061928/http://vmyths.com/hoax.cfm?id=129&page=3
+Hoax Alert\n\n"PKZIP300 virus"\nhttp://web.archive.org/web/20040428064734/http://vmyths.com/hoax.cfm?id=131&page=3
+Hoax Alert\n\n"PKZ300B Trojan/virus"\nhttp://web.archive.org/web/20040428063640/http://vmyths.com/hoax.cfm?id=130&page=3
+Hoax Alert\n\n"Sound Card virus"\nhttp://web.archive.org/web/20040427164952/http://vmyths.com/hoax.cfm?id=141&page=3
+Hoax Alert\n\n"Red Alert virus" (aka "Microsoft home page virus")\nhttp://web.archive.org/web/20050218223950/http://www.vmyths.com/hoax.cfm?id=132&page=3
+Hoax Alert\n\n"Returned/Unable to Deliver virus" (aka "Returned Mail virus" aka "Undeliverable Mail virus")\nhttp://web.archive.org/web/20040427145958/http://vmyths.com/hoax.cfm?id=134&page=3
+Hoax Alert\n\n"Symantec SARC Virus Test virus"\nhttp://web.archive.org/web/20040427160343/http://vmyths.com/hoax.cfm?id=136&page=3
+Hoax Alert\n\n"Teletubbies virus" (aka "Yellow Teletubby virus")\nhttp://web.archive.org/web/20040427120107/http://vmyths.com/hoax.cfm?id=145&page=3
+Hoax Alert\n\n"Time Bomb virus" (aka "Win95.Time Bomb virus")\nhttp://web.archive.org/web/20040427120956/http://vmyths.com/hoax.cfm?id=146&page=3
+Hoax Alert\n\n"Tuxissa virus"\nhttp://web.archive.org/web/20040427122103/http://vmyths.com/hoax.cfm?id=147&page=3
+Hoax Alert\n\n"Valentine's Greeting virus"\nhttp://web.archive.org/web/20040620204956/http://www.vmyths.com/hoax.cfm?id=152&page=3
+Hoax Alert\n\n"Combination virus alerts"\nhttp://web.archive.org/web/20050212035306/http://www.vmyths.com/hoax.cfm?id=153&page=3
+Hoax Alert\n\n"Win a Holiday virus" (aka "Help a Poor Dog Win a Holiday virus")\nhttp://web.archive.org/web/20041216024335/http://www.vmyths.com/hoax.cfm?id=158&page=3
+Hoax Alert\n\n"Wobbler virus" (aka "California virus" aka "Evil The Cat virus")\nhttp://web.archive.org/web/20041216024946/http://www.vmyths.com/hoax.cfm?id=162&page=3
+Hoax Alert\n\n"Yahoo! world domination virus"\nhttp://web.archive.org/web/20040518094615/http://vmyths.com/hoax.cfm?id=166&page=3
+Hoax Alert\n\n"Yukon3U Trojan/virus"\nhttp://web.archive.org/web/20040518094509/http://vmyths.com/hoax.cfm?id=169&page=3
+Hoax Alert\n\n"Flaming monitor virus" (aka "Death Ray virus")\nhttp://web.archive.org/web/20050214223924/http://vmyths.com/hoax.cfm?id=207&page=3
+Hoax Alert\n\n"All Seeing Eye virus" (aka "We Are Watching You virus")\nhttp://web.archive.org/web/20040325042120/http://vmyths.com/hoax.cfm?id=211&page=3
+Hoax Alert\n\n"Perrin.exe virus" (aka "Upgrade Internet2 virus" aka "Virus With No Cure virus")\nhttp://web.archive.org/web/20040428074422/http://vmyths.com/hoax.cfm?id=217&page=3
+Hoax Alert\n\n"Internet Flower for You virus"\nhttp://web.archive.org/web/20050214224136/http://www.vmyths.com/hoax.cfm?id=220&page=3
+Hoax Alert\n\n"A Virtual Card for You virus" (aka "Trilha Zero virus" aka "Virtual Postcard for You virus")\nhttp://web.archive.org/web/20041216024911/http://www.vmyths.com/hoax.cfm?id=222&page=3
+Hoax Alert\n\n"Pool Party virus"\nhttp://web.archive.org/web/20040102034609/http://vmyths.com/hoax.cfm?id=226&page=3
+Hoax Alert\n\n"Family Pictures virus" (aka "New Pictures of Family virus" aka "New Family Pictures virus")\nhttp://web.archive.org/web/20040621234708/http://vmyths.com/hoax.cfm?id=242&page=3
+Hoax Alert\n\n"MusicPanel (MP3) virus"\nhttp://web.archive.org/web/20040405030628/http://www.vmyths.com/hoax.cfm?id=261&page=3
+Hoax Alert\n\n"WTC Survivor virus"\nhttp://web.archive.org/web/20040409171333/http://vmyths.com/hoax.cfm?id=269&page=3
+Hoax Alert\n\n"Economic slowdown in US virus"\nhttp://web.archive.org/web/20050214223752/http://www.vmyths.com/hoax.cfm?id=270&page=3
+Hoax Alert\n\n"Life is Beautiful virus"\nhttp://web.archive.org/web/20050408175649/http://vmyths.com/hoax.cfm?id=277&page=3
+Hoax Alert\n\n"XXX-1 virus"\nhttp://web.archive.org/web/20040518093303/http://vmyths.com/hoax.cfm?id=164&page=3
+
+# Publicity stunt virus alerts
+Publicity Stunt Virus Alert\n\n"Daisy Chain virus"\nhttp://web.archive.org/web/20050214224019/http://www.vmyths.com/hoax.cfm?id=56&page=3
+Publicity Stunt Virus Alert\n\n"Irina virus" (with key reporting from #gcluley)\nhttp://web.archive.org/web/20041110005821/http://vmyths.com/hoax.cfm?id=204&page=3
+Publicity Stunt Virus Alert\n\n"Lions Den virus"\nhttp://web.archive.org/web/20050408174923/http://vmyths.com/hoax.cfm?id=273&page=3
+Publicity Stunt Virus Alert\n\n"The New Ice Age virus"\nhttp://web.archive.org/web/20040223141500/http://vmyths.com/hoax.cfm?id=245&page=3
+Publicity Stunt Virus Alert\n\n"MTX virus 'hotline' (900 number)"\nhttp://web.archive.org/web/20040427125307/http://vmyths.com/hoax.cfm?id=225&page=3
+
+# Media flops & fiascoes
+Media Flops & Fiascoes\n\n"1986 USPA&IRA virus/Trojan"\nhttp://web.archive.org/web/20040417111653/http://vmyths.com/hoax.cfm?id=150&page=3
+Media Flops & Fiascoes\n\n"1988 Morris Internet worm"\nhttp://web.archive.org/web/20050215215201/http://vmyths.com/hoax.cfm?id=213&page=3
+Media Flops & Fiascoes\n\n"1989 Columbus Day virus (aka 'DataCrime virus'), the first media fiasco"\nhttp://web.archive.org/web/20050210190654/http://vmyths.com/hoax.cfm?id=55&page=3
+Media Flops & Fiascoes\n\n"1991 NSA printer virus"\nhttp://web.archive.org/web/20040427155136/http://vmyths.com/hoax.cfm?id=123&page=3\n\nAnd see the follow-up!\nhttp://web.archive.org/web/20180822153219/http://vmyths.com/2010/11/28/wwii
+Media Flops & Fiascoes\n\n"1992 Michelangelo Fiasco: a Historical Timeline" (featuring #Intel, #Symantec, #McAfee, and the late #rossmgreenberg!)\nhttp://web.archive.org/web/19970328190017/http://www.kumite.com/myths/opinion/michtime.htm
+Media Flops & Fiascoes\n\n"1996 Hare Fiasco: a Historical Timeline" (featuring #TrendMicro, #McAfee, and #Symantec)\nhttp://web.archive.org/web/19970328190222/http://www.kumite.com/myths/opinion/haretime.htm
+Media Flops & Fiascoes\n\n"1996 Win95.Boza virus"\nhttp://web.archive.org/web/20050218111243/http://www.vmyths.com/hoax.cfm?id=159&page=3
+Media Flops & Fiascoes\n\n"1996 Netscape letter bomb email threat" (aka "Email letter bomb virus" aka "HTML page o' death threat") featuring #lseltzer\nhttp://web.archive.org/web/20050215202033/http://www.vmyths.com/hoax.cfm?id=120&page=3
+Media Flops & Fiascoes\n\n"1996-98 Java Trojans/viruses" (aka "Spider Black Widow Java viruses")\nhttp://web.archive.org/web/20041224182355/http://vmyths.com/hoax.cfm?id=40&page=3
+Media Flops & Fiascoes\n\n"1997 ShareFun.A virus" featuring a key insight from #gcluley\nhttp://web.archive.org/web/20040427162925/http://vmyths.com/hoax.cfm?id=138&page=3
+Media Flops & Fiascoes\n\n"1999 W32.Kriz virus" (aka "Win32.Kriz virus")\nhttp://web.archive.org/web/20050217131645/http://www.vmyths.com/hoax.cfm?id=155&page=3
+Media Flops & Fiascoes\n\n"1999 The Y2K Virus Media Fiasco"\nhttp://web.archive.org/web/20040427073710/http://vmyths.com/hoax.cfm?id=165&page=3
+Media Flops & Fiascoes\n\n"2000 Pokémon Pikachu worm/Trojan"\nhttp://web.archive.org/web/20040428073140/http://vmyths.com/hoax.cfm?id=209&page=3
+Media Flops & Fiascoes\n\n"2000 #FBI '911' virus"\nhttp://web.archive.org/web/20040507101146/http://vmyths.com/hoax.cfm?id=20&page=3
+Media Flops & Fiascoes\n\n"2001 W97M/Melissa.W virus"\nhttp://web.archive.org/web/20040508201620/http://www.vmyths.com/hoax.cfm?id=237&page=3
+Media Flops & Fiascoes\n\n"2001 Valentine's Day hysteria"\nhttp://web.archive.org/web/20040622061124/http://www.vmyths.com/hoax.cfm?id=239&page=3
+Media Flops & Fiascoes\n\n"2001 #FBI alert of Chinese hacker riot"\nhttp://web.archive.org/web/20050210233151/http://www.vmyths.com/hoax.cfm?id=252&page=3
+Media Flops & Fiascoes\n\n"2001 HomePage virus/worm"\nhttp://web.archive.org/web/20050405081410/http://vmyths.com/hoax.cfm?id=256&page=3
+Media Flops & Fiascoes\n\n"2001 Kournikova virus" (aka "SST virus")\nhttp://web.archive.org/web/20050405070850/http://vmyths.com/hoax.cfm?id=240&page=3
+Media Flops & Fiascoes\n\n"2001 NakedWife worm/virus" (aka "Naked Wife worm/virus")\nhttp://web.archive.org/web/20040427161433/http://vmyths.com/hoax.cfm?id=249&page=3
+Media Flops & Fiascoes\n\n"2001 Nimda virus/worm" (and Vmyths never waivered from this assessment)\nhttp://web.archive.org/web/20040427165227/http://vmyths.com/hoax.cfm?id=267&page=3
+Media Flops & Fiascoes\n\n"2003 Hacker 'Defacers Challenge'"\nhttp://web.archive.org/web/20050321211206/http://www.vmyths.com/hoax.cfm?id=279&page=3
+Media Flops & Fiascoes\n\n"2004 Islamic cyber-terror attack ('electronic jihad')"\nhttp://web.archive.org/web/20051124232213/http://vmyths.com/hoax.cfm?id=281&page=3
+Media Flops & Fiascoes\n\n"2004 Colorado Dept. of Motor Vehicles 'virus' attack"\nhttp://web.archive.org/web/20050206162049/http://www.vmyths.com/hoax.cfm?id=283&page=3
+Media Flops & Fiascoes\n\n"2005 Lexus automobile virus" (featuring #kaspersky and #DQStuff)\nhttp://web.archive.org/web/20050317093629/http://vmyths.com/hoax.cfm?id=284&page=3
+
+# Joke virus alerts (not considered hoaxes)
+Joke Virus Alerts (not considered hoaxes):\n\n"JPEG virus alert" (aka "GIF virus alert" aka "Graphic file virus")\nhttp://web.archive.org/web/19981205175923/http://www.2meta.com:80/april-fools/1994/JPEG-Virus.html
+Joke Virus Alerts (not considered hoaxes):\n\n"Alien/OS virus" (aka "ID4 virus")\nhttp://web.archive.org/web/20040530153317/http://vmyths.com/hoax.cfm?id=33&page=3
+Joke Virus Alerts (not considered hoaxes):\n\n"Little Drummer Boy virus"\nhttp://web.archive.org/web/20040926174938/http://vmyths.com/hoax.cfm?id=100&page=3
+Joke Virus Alerts (not considered hoaxes):\n\n"Honor System virus"\nhttp://web.archive.org/web/20050405045452/http://vmyths.com/hoax.cfm?id=199&page=3
+Joke Virus Alerts (not considered hoaxes):\n\n"Badtimes virus"\nhttp://web.archive.org/web/20050214224108/http://www.vmyths.com/hoax.cfm?id=200&page=3
+Joke Virus Alerts (not considered hoaxes):\n\n"AOL.EXE virus alert"\nhttp://web.archive.org/web/20041216051110/http://vmyths.com/hoax.cfm?id=259&page=3
+Joke Virus Alerts (not considered hoaxes):\n\n"MP3 virus (April Fool joke)"\nhttp://web.archive.org/web/20071019040822/http://www.vmyths.com:80/hmul/4/5
+Joke Virus Alerts (not considered hoaxes):\n\n"Malwarlaria virus (April Fool story)"\nhttp://web.archive.org/web/20071019040822/http://www.vmyths.com/hmul/4/6
+Joke Virus Alerts (not considered hoaxes):\n\n"Wireless TV virus (April Fool story)"\nhttp://web.archive.org/web/20071019040822/http://www.vmyths.com/hmul/4/7
+Joke Virus Alerts (not considered hoaxes):\n\n"Human contact spreads PC viruses (April Fool story)"\nhttp://web.archive.org/web/20050730085410/http://www.vmyths.com/hoax.cfm?id=292&page=3
+Joke Virus Alerts (not considered hoaxes):\n\n"NSA printer virus (April Fool story)" (aka "Iraqi printer virus")\nhttp://web.archive.org/web/20051210052329/http://vmyths.com/hoax.cfm?id=123&page=3\n\nAnd see the follow-up!\nhttps://t.co/tZYEcwbua7
+
+# Poor advice from non-experts
+Poor Advice From Non-Experts:\n\n"0000 trick" (or "!0000 trick" or "How to stop the spread of viruses")\nhttp://web.archive.org/web/20040409165543/http://vmyths.com/hoax.cfm?id=263&page=3
+Poor Advice from Non-Experts:\n\n"AOL password-stealing Trojan/virus"\nhttp://web.archive.org/web/20050327180454/http://vmyths.com/hoax.cfm?id=210&page=3
+Poor Advice From Non-Experts:\n\n"PrettyPark worm/virus" (aka "Pretty Park worm/virus")\nhttp://web.archive.org/web/20040428073942/http://vmyths.com/hoax.cfm?id=216&page=3
+Poor Advice From Non-Experts:\n\n"SHS file Trojan/virus" (aka "scrap object .SHS Trojan/virus")\nhttp://web.archive.org/web/20040621225707/http://www.vmyths.com/hoax.cfm?id=140&page=3
+Poor Advice From Non-Experts:\n\n"Sircam worm/virus"\nhttp://web.archive.org/web/20040427163348/http://vmyths.com/hoax.cfm?id=262&page=3
+
+# Q&A / FAQ material
+Q&A / FAQ: "How can the [name] virus be a hoax? It physically destroyed my computer and I've got the receipts to prove it"\nhttp://web.archive.org/web/20040427094225/http://vmyths.com/hoax.cfm?id=228&page=3
+Q&A / FAQ: "Would you send me some viruses for [insert reason here]?"\nhttp://web.archive.org/web/20040427102109/http://vmyths.com/hoax.cfm?id=232&page=3
+Q&A / FAQ: "Why isn't Vmyths worried about the threat of viruses?"\nhttp://web.archive.org/web/20040427104650/http://vmyths.com/hoax.cfm?id=234&page=3
+Q&A / FAQ: "I received a virus alert from an authoritative source. Should I forward it to my friends?"\nhttp://web.archive.org/web/20040427110232/http://vmyths.com/hoax.cfm?id=236&page=3
+Q&A / FAQ: "How often does virus hysteria occur?"\nhttp://web.archive.org/web/20040202015531/http://vmyths.com/hoax.cfm?id=258&page=3
+Q&A / FAQ: "Why don't you show misguided alert messages on Vmyths?"\nhttp://web.archive.org/web/20040427101649/http://vmyths.com/hoax.cfm?id=231&page=3
+Q&A / FAQ: "What does Vmyths think of antivirus companies in general?"\nhttp://web.archive.org/web/20040427103531/http://vmyths.com/hoax.cfm?id=233&page=3
+Q&A / FAQ: "What antivirus software do you recommend?" (hint: if you ask this, you're asking the *wrong* question)\nhttp://web.archive.org/web/20040427105306/http://vmyths.com/hoax.cfm?id=235&page=3
+Q&A / FAQ: "My friend forwarded a hoax virus alert to everyone. What can I do to help?"\nhttp://web.archive.org/web/20040427111209/http://vmyths.com/hoax.cfm?id=271&page=3
+
+#                                                                                                  1                                                                                                   2                                                                               2
+#        1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8
+#234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+In its halcyon days, "Vmyths" provided resources the #antivirus industry couldn't muster\n\nIn this thread each Sunday, we shall peruse the Wayback Machine to study the URBAN LEGENDS about viruses that plagued us from the 1990s through 2005...
+
+# Urban Legends:
+"Aureate DLLs Trojan"\nhttp://web.archive.org/web/20050208153521/http://vmyths.com/hoax.cfm?id=36&page=3
+"Blue Mountain greeting card Trojan/virus"\nhttp://web.archive.org/web/20050208192027/http://vmyths.com/hoax.cfm?id=43&page=3
+"ElfBowl virus"\nhttp://web.archive.org/web/20050218111315/http://www.vmyths.com/hoax.cfm?id=70&page=3
+"Frog-A-Pult virus"\nhttp://web.archive.org/web/20050218111315/http://www.vmyths.com/hoax.cfm?id=70&page=3
+"ICQ Trojan/virus" (aka "Mirabilis Trojan/virus)\nhttp://web.archive.org/web/20050405063236/http://vmyths.com/hoax.cfm?id=87&page=3
+"Microsoft Win95 Install Disk #2 infected with virus"\nhttp://web.archive.org/web/20040427130931/http://vmyths.com/hoax.cfm?id=110&page=3
+"sulfnbk.exe virus"\nhttp://web.archive.org/web/20050519083506/http://www.vmyths.com/hoax.cfm?id=257&page=3
+"jdbgmgr.exe virus" (aka "Teddy Bear virus")\nhttp://web.archive.org/web/20050511084307/http://www.vmyths.com/hoax.cfm?id=275&page=3
+"SandMan hacker alert"\nhttp://web.archive.org/web/20040427155933/http://vmyths.com/hoax.cfm?id=135&page=3
+"Sheep virus"\nhttp://web.archive.org/web/20040427163514/http://vmyths.com/hoax.cfm?id=139&page=3
+"Timothy McVeigh execution virus"\nhttp://web.archive.org/web/20040405025206/http://www.vmyths.com/hoax.cfm?id=260&page=3
+"Heart Arrhythmia computer virus" aka "Russian Virus 666" (as detailed in the U.S. Army War College's journal "Parameters" that the Wayback Machine also archived!)\nhttp://web.archive.org/web/20000815081921/http://sun.soci.niu.edu/~crypt/other/param.htm
+
+#                                                                                                  1                                                                                                   2                                                                               2
+#        1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8
+#234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+# YouTube PSAs
+"Vmyths: All Hail The Jerk""\nhttps://www.youtube.com/watch?v=N9MRdGYUQR8
+"ISIS Bucket Challenge For Computer Security"\nhttps://www.youtube.com/watch?v=RHDP5UR4RI4
+"Unsolicited Testimonial" (skip to 10:00 mark to realize *why* I filmed this video)\nhttps://www.youtube.com/watch?v=N4hfrEeNoSw&t=10m
+
