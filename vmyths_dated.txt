@@ -176,14 +176,14 @@
 12-15 Clinton's Y2K czar came up with a brilliant strategy\nhttp://web.archive.org/web/20000816011511/http://kumite.com/myths/opinion/thoughts/1999/#991215
 12-03 Did Novell CEO concoct a hoax, or just get duped?\nhttp://web.archive.org/web/20000816011511/http://kumite.com/myths/opinion/thoughts/1999/#991203
 12-02 #McAfee's advice fails the test of logic\nhttp://web.archive.org/web/20000816011511/http://kumite.com/myths/opinion/thoughts/1999/#991202
-12-01 A new antivirus vulnerability comes to light\nhttp://web.archive.org/web/20000816011511/http://kumite.com/myths/opinion/thoughts/1999/#991201
-11-30 The return of the MCAF stock symbol\nhttp://web.archive.org/web/20000816011511/http://kumite.com/myths/opinion/thoughts/1999/#991130
+12-01 [[/home/rob/Twitter/accounts/vmyths/photos/rants/1999/DidAVfailUs.png]] A new antivirus vulnerability comes to light\nhttp://web.archive.org/web/20000816011511/http://kumite.com/myths/opinion/thoughts/1999/#991201
+11-30 The return of "McAfee" as a stock symbol (the time it happened in 1999, not the repeat event in 2020)\nhttp://web.archive.org/web/20000816011511/http://kumite.com/myths/opinion/thoughts/1999/#991130
 11-21 AFOSI is clueless\nhttp://web.archive.org/web/20000816011511/http://kumite.com/myths/opinion/thoughts/1999/#991121
-11-20 Human viruses vs. computer viruses\nhttp://web.archive.org/web/20000816011511/http://kumite.com/myths/opinion/thoughts/1999/#991120
-11-19 New computer virus spreads Alzheimers\nhttp://web.archive.org/web/20000816011511/http://kumite.com/myths/opinion/thoughts/1999/#991119
-11-17 Gates lost — because I didn't file an amicus curiae\nhttp://web.archive.org/web/20000816011511/http://kumite.com/myths/opinion/thoughts/1999/#991117
-11-10 I purposely slept in late. And you?\nhttp://web.archive.org/web/20000816011511/http://kumite.com/myths/opinion/thoughts/1999/#991110
-11-04 Another publicity bonanza for mi2g\nhttp://web.archive.org/web/20000816011511/http://kumite.com/myths/opinion/thoughts/1999/#991104
+11-20 [[/home/rob/Twitter/accounts/vmyths/photos/rants/1999/DataFellows.png]] Human viruses vs. computer viruses\nhttp://web.archive.org/web/20000816011511/http://kumite.com/myths/opinion/thoughts/1999/#991120
+11-19 [[/home/rob/Twitter/accounts/vmyths/photos/rants/1999/ShortMemory.png]] New computer virus spreads Alzheimers\nhttp://web.archive.org/web/20000816011511/http://kumite.com/myths/opinion/thoughts/1999/#991119
+11-17 [[/home/rob/Twitter/accounts/vmyths/photos/rants/1999/MicrosoftCloud.png]] Gates lost — because I didn't file an amicus curiae\nhttp://web.archive.org/web/20000816011511/http://kumite.com/myths/opinion/thoughts/1999/#991117
+11-10 [[/home/rob/Twitter/accounts/vmyths/photos/rants/1999/BubbleBoy.png]] I purposely slept in late. And you?\nhttp://web.archive.org/web/20000816011511/http://kumite.com/myths/opinion/thoughts/1999/#991110
+11-04 Another publicity bonanza for #dkmatai's shill firm "mi2g"\nhttp://web.archive.org/web/20000816011511/http://kumite.com/myths/opinion/thoughts/1999/#991104
 11-02 #Antivirus firms need a Y2K-compliant spellchecker\nhttp://web.archive.org/web/20000816011511/http://kumite.com/myths/opinion/thoughts/1999/#991102
 10-31 [[/home/rob/Twitter/accounts/vmyths/photos/rants/1999/Starlabs.png]] Virus hysteria exposes suicidal tendencies\nhttp://web.archive.org/web/20000816011511/http://kumite.com/myths/opinion/thoughts/1999/#991031
 10-28 [[/home/rob/Twitter/accounts/vmyths/photos/rants/1999/Dole.png]] Computer viruses equivalent to North Korean missiles? (featuring a quote from a U.S. presidential candidate!)\nhttp://web.archive.org/web/20000816011511/http://kumite.com/myths/opinion/thoughts/1999/#991028
@@ -263,26 +263,26 @@
 12-08 Correction: Internet to die on the real millennium\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/12/8
 12-07 Vmyths.com: the third lost episode\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/12/7
 12-01 Reporters to start sniffing Naptha?\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/12/1
-11-30 Vmyths.com: the second lost episode\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/11/30
-11-29 Vmyths.com: the first lost episode\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/11/29
-11-28 Guinness voted on the facts — and Melissa demanded a recount\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/11/28
-11-27 Virus education for furniture corporation top executives\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/11/27
-11-26 AntiVirusTV.com\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/11/26
-11-25 The word continues to slowly filter out\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/11/25
-11-24 Raid on E-tebbe, part 3\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/11/24
-11-23 If we send you a virus, it's *your* fault (part 2)\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/11/23
-11-22 Antivirus headline news network\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/11/22
-11-21 Undersecretary of Double Entendres\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/11/21
-11-20 Blame computer security manager for virus woes, part 2\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/11/20
-11-19 Raid on E-tebbe, part 2\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/11/19
-11-18 The Grinch who stole e-Christmas\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/11/18
-11-17 Annnnnnddddd… they're off!\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/11/17
-11-16 We need more 'citizen journalists'\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/11/16
-11-14 Raid on E-tebbe, part 1\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/11/14
-11-10 Basic fact checking\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/11/10
-11-07 Horror Stories 101\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/11/7
-11-02 A simple filter rule stops #ILOVEYOU\nhttp://web.archive.org/web/20010404234833/http://vmyths.com/rant.cfm?id=239&page=4
-11-01 Airport security vs. antivirus security\nhttp://web.archive.org/web/20110521020448/http://vmyths.com/column/1/2000/11/1
+11-30 Vmyths.com: the second lost episode\nhttp://web.archive.org/web/20010405115329/http://www.vmyths.com/rant.cfm?id=265&page=4
+11-29 Vmyths.com: the first lost episode (featuring #RayQuattromini!)\nhttp://web.archive.org/web/20011121174714/http://vmyths.com/rant.cfm?id=264&page=4
+11-28 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2000/Guinness.png]] Guinness World Records voted on the facts — and the #Melissa virus demanded a recount\nhttp://web.archive.org/web/20010405113522/http://www.vmyths.com/rant.cfm?id=263&page=4
+11-27 Virus education for furniture corporation top executives\nhttp://web.archive.org/web/20010405113133/http://www.vmyths.com/rant.cfm?id=261&page=4
+11-26 VirusTV[.]com and AntiVirusTV[.]com\n(Both totally real 24hr news channels and I absolutely swear to you they *invented* cat videos as we know them today)\nhttp://web.archive.org/web/20010405112508/http://www.vmyths.com/rant.cfm?id=260&page=4
+11-25 The word continues to slowly filter out (featuring #AndyBriney!)\nhttp://web.archive.org/web/20010405112836/http://www.vmyths.com/rant.cfm?id=259&page=4
+11-24 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2000/MemoToGaza.png]] Raid on E-tebbe, part 3\nhttp://web.archive.org/web/20010405112203/http://www.vmyths.com/rant.cfm?id=257&page=4
+11-23 If we send you a virus, it's *your* fault, part 2 (featuring #Delta Air Lines!)\nhttp://web.archive.org/web/20010405111531/http://www.vmyths.com/rant.cfm?id=256&page=4
+11-22 Antivirus headline news network (featuring #KimZetter, #kpoulsen, and the late #rossmgreenberg!)\nhttp://web.archive.org/web/20010619181640/http://vmyths.com/rant.cfm?id=255&page=4
+11-21 Undersecretary of Double Entendres\nhttp://web.archive.org/web/20010405111349/http://www.vmyths.com/rant.cfm?id=254&page=4
+11-20 Blame computer security manager for virus woes, part 2\nhttp://web.archive.org/web/20010405125422/http://vmyths.com/rant.cfm?id=253&page=4
+11-19 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2000/Bouzaglo.png]] Raid on E-tebbe, part 2\nhttp://web.archive.org/web/20010406120734/http://www.vmyths.com:80/rant.cfm?id=252&page=4
+11-18 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2000/XmasISS.png]] The Grinch who stole e-Christmas\nhttp://web.archive.org/web/20010406120151/http://www.vmyths.com:80/rant.cfm?id=251&page=4
+11-17 Annnnnnddddd… they're off!\nhttp://web.archive.org/web/20010406121330/http://www.vmyths.com/rant.cfm?id=250&page=4
+11-16 We need more 'citizen journalists'\nhttp://web.archive.org/web/20010406120126/http://vmyths.com/rant.cfm?id=249&page=4
+11-14 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2000/CyberTerror.png]] Raid on E-tebbe, part 1\nhttp://web.archive.org/web/20040417002654/http://vmyths.com/rant.cfm?id=248&page=4
+11-10 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2000/ElectionCycle.png]] Basic fact checking\nhttp://web.archive.org/web/20010406115024/http://www.vmyths.com/rant.cfm?id=246&page=4
+11-07 Horror Stories 101, semester 1 (featuring award-winning #CISSP Dan Erwin!)\nhttp://web.archive.org/web/20010406114221/http://www.vmyths.com:80/rant.cfm?id=245&page=4
+11-02 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2000/SimpleRule.png]] [[/home/rob/Twitter/accounts/vmyths/photos/rants/2000/MessagelabsTest.png]] A simple filter rule stops #ILOVEYOU (in which MessageLabs analyzed customers' emails to provide real data for this column)\nhttp://web.archive.org/web/20010404234833/http://vmyths.com/rant.cfm?id=239&page=4
+11-01 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2000/BlameAntivirus.png]] Airport security vs. antivirus security\nhttp://web.archive.org/web/20010619180516/http://vmyths.com/rant.cfm?id=247&page=4
 10-30 Blitzkrieg server computer virus, part 8\nhttp://web.archive.org/web/20010110223900/http://www.vmyths.com/rant.cfm?id=214&page=4
 10-26 Blitzkrieg server computer virus, part 7\nhttp://web.archive.org/web/20010110223600/http://www.vmyths.com:80/rant.cfm?id=213&page=4
 10-09 The return of John McAfee\nhttp://web.archive.org/web/20010110221800/http://www.vmyths.com:80/rant.cfm?id=160&page=4
@@ -373,8 +373,8 @@
 12-12 'Fibs' are just well-meaning lies\nhttp://web.archive.org/web/20110521015417/http://vmyths.com/column/1/2001/12/12
 12-11 And that's a fact!\nhttp://web.archive.org/web/20110521015417/http://vmyths.com/column/1/2001/12/11
 12-10 Service provider attacks (SPAs)\nhttp://web.archive.org/web/20110521015417/http://vmyths.com/column/1/2001/12/10
-11-12 Believe me: we're in good hands\nhttp://web.archive.org/web/20110521015417/http://vmyths.com/column/1/2001/11/12
-11-10 Pentagon will destroy the Taliban — with a computer virus\nhttp://web.archive.org/web/20110521015417/http://vmyths.com/column/1/2001/11/10
+11-12 Believe me: we're in good hands (featuring #caroworkshop!)\nhttp://web.archive.org/web/20011114034355/http://vmyths.com/rant.cfm?id=420&page=4\n\nAs read by the author:\nhttps://youtu.be/ZZuYXYE7JAs\nhttps://twitter.com/vmyths/status/986584096204828673
+11-10 Pentagon will destroy the Taliban — with a computer virus (featuring #RichardClarke aka #DrunkCyberczar!)\nhttp://web.archive.org/web/20011112045117/http://vmyths.com/rant.cfm?id=419&page=4\n\nAs read by the author:\nhttps://youtu.be/YB8EEVQtCnY
 11-01 Let slip the dogs of virus war, part 3\nhttp://web.archive.org/web/20011217144604/http://vmyths.com/rant.cfm?id=417&page=4\n\nAs read by the author:\nhttps://youtu.be/Bc04QpOyqD4
 10-31 Let slip the dogs of virus war, part 2\nhttp://web.archive.org/web/20011217144604/http://vmyths.com/rant.cfm?id=417&page=4\n\nAs read by the author:\nhttps://youtu.be/JITuC5uxFrE
 10-30 Let slip the dogs of virus war, part 1\nhttp://web.archive.org/web/20011107071609/http://vmyths.com/rant.cfm?id=416&page=4\n\nAs read by the author:\nhttps://youtu.be/mVeEZOHAPuE
@@ -456,7 +456,7 @@
 02-02 Vmyths.com uncovers a willing scapegoat, part 1\nhttp://web.archive.org/web/20011121190624/http://vmyths.com/rant.cfm?id=296&page=4
 01-29 First IBM PC virus celebrates 15th birthday\nhttp://web.archive.org/web/20040509202940/http://vmyths.com/rant.cfm?id=295&page=4
 01-18 Network Associates telethon fund, part 1 (featuring #IHackedWhat!)\nhttp://web.archive.org/web/http://vmyths.com/column/1/2001/1/18
-01-14 Horror Stories 101 (semester 2)\nhttp://web.archive.org/web/http://vmyths.com/column/1/2001/1/14
+01-14 Horror Stories 101, semester 2 (featuring award-winning #CISSP Dan Erwin!)\nhttp://web.archive.org/web/http://vmyths.com/column/1/2001/1/14
 01-10 Mr. Rosenberger goes to Washington, take 2\nhttp://web.archive.org/web/http://vmyths.com/column/1/2001/1/10
 01-04 Amazingly, we even survived the real millennium!\nhttp://web.archive.org/web/http://vmyths.com/column/1/2001/1/4
 01-03 Raid on E-tebbe, part 4\nhttp://web.archive.org/web/http://vmyths.com/column/1/2001/1/3
@@ -475,12 +475,12 @@
 12-31 Cyber-terrorism strikes Vmyths!\nhttp://web.archive.org/web/20110521015447/http://vmyths.com/column/1/2002/12/31
 12-26 Osama bin Virus, part 2\nhttp://web.archive.org/web/20110521015447/http://vmyths.com/column/1/2002/12/26
 12-13 Euthanize the Internet\nhttp://web.archive.org/web/20021231105912/http://www.vmyths.com/rant.cfm?id=530&page=4
-12-04 He asked for a critique and he got one\nhttp://web.archive.org/web/20110521015447/http://vmyths.com/column/1/2002/12/4
+12-04 He asked for a critique and he *got* one\nhttp://web.archive.org/web/20110521015447/http://vmyths.com/column/1/2002/12/4
 11-30 Shrieking Sheikh Bakri, part 2 (featuring #DanielVerton!)\nhttp://web.archive.org/web/20021215084125/http://www.vmyths.com/rant.cfm?id=528&page=4\n\nAs read by the author:\nhttps://youtu.be/WoImQwRF3fU
 11-29 Shrieking Sheikh Bakri, part 1 (featuring #DanielVerton!)\nhttp://web.archive.org/web/20030217021231/http://vmyths.com/rant.cfm?id=527&page=4\n\nAs read by the author:\nhttps://youtu.be/Ju1MpejVQ7w
 11-28 What is "near-terrorism," anyway?\nhttp://web.archive.org/web/20021215082333/http://www.vmyths.com/rant.cfm?id=526&page=4\n\nAs read by the author:\nhttps://youtu.be/fEI_2Z-y-rc
 11-26 It'd take one to know one\nhttp://web.archive.org/web/20021212025735/http://vmyths.com/rant.cfm?id=525&page=4\n\nAs read by the author:\nhttps://youtu.be/IuDLjSK8uV0
-11-25 Some virus experts protect more than just your computer\nhttp://web.archive.org/web/20021212025421/http://vmyths.com/rant.cfm?id=524&page=4
+11-25 Some virus experts protect more than just your computer\nhttp://web.archive.org/web/20021212025421/http://vmyths.com/rant.cfm?id=524&page=4\nhttps://twitter.com/rsnbrgr/status/1171819807383142400
 10-20 Exodus 20:16 is a victimless sin\nhttp://web.archive.org/web/20021104034107/http://www.vmyths.com/rant.cfm?id=522&page=4\n\nAs read by the author:\nhttps://youtu.be/kvSdWDDQXZ0\nhttps://twitter.com/vmyths/status/1285562779332730885
 10-18 [[/home/rob/Twitter/accounts/vmyths/photos/IronicCyberDeaths/LindaFranklin.jpg]] Three questions re: Linda Franklin's death\nhttp://web.archive.org/web/20021030154521/http://vmyths.com/rant.cfm?id=521&page=4\n\nAs read by the author:\nhttps://youtu.be/J1TnrZ28vqY\nhttps://twitter.com/vmyths/status/1285562779332730885
 10-15 [[/home/rob/Twitter/accounts/vmyths/photos/IronicCyberDeaths/LindaFranklin.jpg]] [[/home/rob/Twitter/accounts/vmyths/photos/rants/2002/1015/NIPC.png]] A physical terrorist killed *another* cyber-terrorism expert\nhttp://web.archive.org/web/20021030075822/http://vmyths.com/rant.cfm?id=520&page=4\n\nAs read by the author:\nhttps://youtu.be/bEHrk8WEoG4\nhttps://twitter.com/vmyths/status/1285562779332730885
@@ -636,9 +636,9 @@
 12-20 Open letter to mi2g's founder & CEO #dkmatai\nhttp://web.archive.org/web/20110521015539/http://vmyths.com/column/1/2004/12/20
 12-19 Computer security means nothing to Joe SixPack\nhttp://web.archive.org/web/20110521015539/http://vmyths.com/column/1/2004/12/19
 12-12 Robert Vamosi flip-flops on "electronic Pearl Harbor"\nhttp://web.archive.org/web/20110521015539/http://vmyths.com/column/1/2004/12/12
-11-16 The significance of one handwritten resignation letter\nhttp://web.archive.org/web/20110521015539/http://vmyths.com/column/1/2004/11/16
-11-15 Let's give thanks for #antivirus software that so often fails to do its job\nhttp://web.archive.org/web/20110521015539/http://vmyths.com/column/1/2004/11/15
-11-13 #dkmatai's shill firm mi2g plays the "voice of sanity" card\nhttp://web.archive.org/web/20110521015539/http://vmyths.com/column/1/2004/11/13
+11-16 The significance of one handwritten resignation letter\nhttp://web.archive.org/web/20041124021125/http://vmyths.com/rant.cfm?id=687&page=4
+11-15 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2004/AVfail.png]] Let's give thanks for #antivirus software that so often FAILS to do its job\nhttp://web.archive.org/web/20041117112934/http://vmyths.com/rant.cfm?id=686&page=4
+11-13 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2004/PhDisError404.png]] #dkmatai's shill firm mi2g plays the "voice of sanity" card\nhttp://web.archive.org/web/20041124020135/http://vmyths.com/rant.cfm?id=685&page=4
 10-25 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2004/1025/hazard.jpg]] Still waiting for JPEGs to kill the Internet, part 2\nhttp://web.archive.org/web/20041031055802/http://vmyths.com/rant.cfm?id=684&page=4
 10-18 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2004/1025/hazard.jpg]] Still waiting for JPEGs to kill the Internet, part 1\nhttp://web.archive.org/web/20041023143818/http://www.vmyths.com/rant.cfm?id=681&page=4
 09-21 [[/home/rob/Twitter/accounts/vmyths/photos/rants/addicted.gif]] In our first unscientific poll of Vmyths readers, we asked "did you know some antivirus firms offer a true 100% virus detection guarantee, or your money back?"\n\nhttp://web.archive.org/web/20041021053125/http://vmyths.com/rant.cfm?id=679&page=4
@@ -746,14 +746,14 @@
 #    0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8
 #    01234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-# 2008 completed for best URLs
-12-03 "Part 2: USAF CIO on hiatus, or what?"\nhttp://web.archive.org/web/20081220221447/http://securitycritics.org/2008/12/03/milcio-2
-11-19 "Part 5: we can’t take ‘cyber-war’ or ‘cyber-terrorism’ seriously until…"\nhttp://web.archive.org/web/20081220221447/http://securitycritics.org/2008/11/19/cemetery
-11-17 "William T. Lord != Herbert E. Carter"\nhttp://web.archive.org/web/20081220221447/http://securitycritics.org/2008/11/17/tuskegee
-11-14 "Part 4: we can’t take ‘cyber-war’ or ‘cyber-terrorism’ seriously until…"\nhttp://web.archive.org/web/20081220221447/http://securitycritics.org/2008/11/14/museum
+# 2008 completed for best URLs, images, and Twitter names
+12-03 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2008/StagnantCIO.png]] [[/home/rob/Twitter/accounts/vmyths/photos/rants/2008/usaf-cio.jpg]] "Part 2: USAF CIO on hiatus, or what?"\nhttp://web.archive.org/web/20081220221447/http://securitycritics.org/2008/12/03/milcio-2
+11-19 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2008/Palovich.jpg]] [[/home/rob/Twitter/accounts/vmyths/photos/rants/2008/KeyboardMonument.jpg]] "Part 5: we can’t take ‘cyber-war’ or ‘cyber-terrorism’ seriously until…"\nhttp://web.archive.org/web/20081220221447/http://securitycritics.org/2008/11/19/cemetery\nhttps://twitter.com/vmyths/status/1139261456858386432
+11-17 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2008/Carter.jpg]] [[/home/rob/Twitter/accounts/vmyths/photos/rants/2008/lord.jpg]] "William T. Lord != Herbert E. Carter"\nhttp://web.archive.org/web/20081220221447/http://securitycritics.org/2008/11/17/tuskegee
+11-14 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2008/Museum100yrs.jpg]] "Part 4: we can’t take ‘cyber-war’ or ‘cyber-terrorism’ seriously until…"\nhttp://web.archive.org/web/20081220221447/http://securitycritics.org/2008/11/14/museum
 11-13 "Cyberspace flying exec?"\nhttp://web.archive.org/web/20081220221447/http://securitycritics.org/2008/11/13/flying-exec
 11-12 "Bartender! A round of cyber medals for everyone"\nhttp://web.archive.org/web/20081220221447/http://securitycritics.org/2008/11/13/cybermedals
-11-11 "The face of a non-cyber hero"\nhttp://web.archive.org/web/20081220221447/http://securitycritics.org/2008/11/11/real-hero
+11-11 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2008/TSgtDelToro.jpg]] "The face of a non-cyber hero"\nhttp://web.archive.org/web/20081220221447/http://securitycritics.org/2008/11/11/real-hero
 09-29 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2008/EagleEye1.jpg]] [[/home/rob/Twitter/accounts/vmyths/photos/rants/2008/EagleEye2.jpg]] [[/home/rob/Twitter/accounts/vmyths/photos/rants/2008/EagleEye3.jpg]] "USAF beams with pride over an ABSURD cyber-terror movie"\nhttp://web.archive.org/web/20081105053105/http://securitycritics.org/2008/09/29/eagle-eye
 09-19 "Shhh! Don't tell anyone I showed you this"\nhttp://web.archive.org/web/20080919121306/http://securitycritics.org:80\n\nOur column on it:\nhttps://t.co/V7OEy7wB9K
 09-17 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2008/no-opsec.jpg]] "Overseas air base holds a contest at AFCYBER’s expense"\nhttp://web.archive.org/web/20081105053105/http://securitycritics.org/2008/09/17/kadena
@@ -761,15 +761,15 @@
 08-21 "USAF CIO on hiatus, or what?"\nhttp://web.archive.org/web/20080830042321/http://securitycritics.org/2008/08/21/milcio
 08-14 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2008/no-opsec.jpg]] "Press reports: 'AFCYBER may be its own worst enemy'"\nhttp://web.archive.org/web/20081203181117/http://securitycritics.org/2008/08/14/afcyber
 08-05 "Why does USAF ignore THE most obvious cyberspace weapon system?"\nhttp://web.archive.org/web/20081203181117/http://securitycritics.org/2008/08/05/daos
-08-04 "Part 3: We can’t take ‘cyber-war’ or ‘cyber-terrorism’ seriously until… (brevity codes)"\nhttp://web.archive.org/web/20081203181117/http://securitycritics.org/2008/08/04/brevity-codes
+08-04 "Part 3: We can’t take ‘cyber-war’ or ‘cyber-terrorism’ seriously until…"\nhttp://web.archive.org/web/20081203181117/http://securitycritics.org/2008/08/04/brevity-codes\n\nWatch a CARTOON pilot use brevity codes (skip to 01:07):\nhttps://youtu.be/5bBFsLUe8Ec
 07-28 "Embarrassing fact: AFCYBER doesn’t protect a lot of Air Force websites"\nhttp://web.archive.org/web/20081203181117/http://securitycritics.org/2008/07/28/usaf-2
 07-10 "Does USAF count cyberspace sorties with extreme precision?"\nhttp://web.archive.org/web/20081203181117/http://securitycritics.org/2008/07/10/sorties
-06-22 "USAF writes cyberspace doctrines in the wrong dialect"\nhttp://web.archive.org/web/20181128003745/http://securitycritics.org/2008/06/22/dialect
+06-22 "USAF writes cyberspace doctrines in the wrong dialect"\n\nPart 2: "Billy Mitchell didn't speak Legalese with a Bureaucratic accent"\nhttp://web.archive.org/web/20181128003745/http://securitycritics.org/2008/06/22/dialect
 06-17 "Internet predicted to die by 2012"\nhttp://web.archive.org/web/20081203181117/http://securitycritics.org/2008/06/16/prediction
 06-16 "Logic bomb = 2,000 pound JDAM?"\nhttp://web.archive.org/web/20081203181117/http://securitycritics.org/2008/06/16/logicbomb
 06-15 "Irony: AusCERT attendees learn firsthand about malware"\nhttp://web.archive.org/web/20081203181117/http://securitycritics.org/2008/06/16/auscert
-05-05 "Shouldn’t DEFCON attendees think outside the box?"\nhttp://web.archive.org/web/20081203181117/http://securitycritics.org/2008/05/05/defcon
-04-30 "AFCYBER seeks fat Airmen with criminal records"\nhttp://web.archive.org/web/20090106031749/http://securitycritics.org/2008/04/28/milhackers
+05-05 "Shouldn’t DEFCON attendees think *outside* the box?"\nhttp://web.archive.org/web/20081203181117/http://securitycritics.org/2008/05/05/defcon\nhttps://twitter.com/vmyths/status/853206988658020353
+04-30 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2008/lord.jpg]] "AFCYBER's commanding general seeks fat Airmen with criminal records"\nhttp://web.archive.org/web/20090106031749/http://securitycritics.org/2008/04/28/milhackers
 04-29 "We can stop cyber-terrorism with 'secure email'?"\nhttp://web.archive.org/web/20090106031749/http://securitycritics.org/2008/04/28/osama
 04-28 "Wikipedia 'Cyber-terrorism' article"\nhttp://web.archive.org/web/20090106031749/http://securitycritics.org/2008/04/28/wikipedi
 04-27 "'We need to terrify' politicians about cyber crime?"\nhttp://web.archive.org/web/20090106031749/http://securitycritics.org/2008/04/28/johnston
@@ -798,6 +798,7 @@
 08-19 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2008/WikiWar.png]] #Wikipedia babbles about Russian-Georgian "cyberattacks"\nhttp://web.archive.org/web/20081011085402/http://vmyths.com/2008/08/19/wikipedia
 08-18 Media lacks "thousands feared dead" headlines in Russian-Georgian "cyber-war" (featuring #MarcusSachs!)\nhttp://web.archive.org/web/20080917020039/http://vmyths.com:80/2008/08/18/russia-georgia
 08-10 #Irony abounds in USAF cyberspace hysteria snafu\nhttp://web.archive.org/web/20081011085402/http://vmyths.com/2008/08/10/usaf
+
 
 ################################################################################
 ################################################################################
@@ -856,7 +857,7 @@
 04-19 Follow Vmyths on Twitter\nhttp://web.archive.org/web/20090823055716/http://vmyths.com/2009/04/19/twitter-2
 04-18 A "get well soon" card for #McAfee’s chief marketeer\nhttp://web.archive.org/web/20090823055716/http://vmyths.com/2009/04/18/envelope
 04-17 "Email spam is destroying life on earth," but #McAfee’s anti-spam software can save our planet\nhttp://web.archive.org/web/20090823055716/http://vmyths.com/2009/04/17/mcafee
-04-12 New Twitter worm brings out the expert’s irony\nhttp://web.archive.org/web/20090823055716/http://vmyths.com/2009/04/12/hypponen
+04-12 New Twitter worm brings out the expert’s irony (featuring #mikko!)\nhttp://web.archive.org/web/20090823055716/http://vmyths.com/2009/04/12/hypponen
 03-31 Two months later — antivirus firms remain blasé over Conficker / Downadup worm\nhttp://web.archive.org/web/20090823055716/http://vmyths.com/2009/03/31/downadup-4
 03-30 Reporters don’t need to write a news story — TrustPort will gladly write it for them\nhttp://web.archive.org/web/20090823055716/http://vmyths.com/2009/03/30/trustport
 03-29 PayPal crime vs. False Authority Syndrome\nhttp://web.archive.org/web/20090823055716/http://vmyths.com/2009/03/29/reiser
@@ -871,6 +872,7 @@
 01-21 Media hype going up; vendor hype going down\nhttp://web.archive.org/web/20090211054821/http://vmyths.com/2009/01/21/downadup-2
 01-20 Believe it — reporters yawned over nine million infected PCs\nhttp://web.archive.org/web/20090211054821/http://vmyths.com/2009/01/20/nine-million
 
+
 ################################################################################
 ################################################################################
 #####                             KUMITE.ORG                               #####
@@ -881,9 +883,9 @@
 #    0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8
 #    01234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-# 2010 completed for best URLs
-12-02 Does Pentagon *forbid* military retirees to read stories about WikiLeaks?\nhttp://web.archive.org/web/20110718034226/http://kumite.com/2010/12/02/haf-ja
-04-23 ICU nurse insists cell phones *not* a threat to patients\nhttp://web.archive.org/web/20110819155451/http://kumite.com/2010/04/23/nurse
+# 2010 completed for best URLs, images, and Twitter names
+12-02 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2010/haf-ja.jpg]] Does Pentagon *forbid* military retirees to read stories about WikiLeaks?\nhttp://web.archive.org/web/20110718034226/http://kumite.com/2010/12/02/haf-ja
+04-23 ICU nurse insists cell phones *not* a threat to patients\nhttp://web.archive.org/web/20110819155451/http://kumite.com/2010/04/23/nurse\n\nListen to the audio:\nhttp://web.archive.org/web/20110819155451/http://kumite.com/wp-content/uploads/2010/04/nurse.mp3
 
 
 ################################################################################
@@ -896,10 +898,10 @@
 #    0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8
 #    01234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-#2010 completed for best URLs
-11-18 "U.S. antivirus industry is Iran’s new 'BFF'"\nhttp://web.archive.org/web/20110130225229/http://securitycritics.org/2010/11/18/iran
+#2010 completed for best URLs, images, and Twitter names
+11-18 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2010/IranBFF01.png]] [[/home/rob/Twitter/accounts/vmyths/photos/rants/2010/IranBFF02.png]] [[/home/rob/Twitter/accounts/vmyths/photos/rants/2010/IranBFF03.png]] "U.S. antivirus industry is Iran’s new 'BFF'"\nhttp://web.archive.org/web/20110130225229/http://securitycritics.org/2010/11/18/iran
 10-18 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2010/fadok1.png]] [[/home/rob/Twitter/accounts/vmyths/photos/rants/2010/fadok2.png]] "Part 2 of Ten-- Wait, I Mean 'Six' Things Every Airman Must Know About Cyberspace-- Wait, I Mean 'the Internet'"\nhttp://web.archive.org/web/20110130225229/http://securitycritics.org/2010/10/18/fadok
-10-17 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2010/6things1.png]] [[/home/rob/Twitter/accounts/vmyths/photos/rants/2010/6things2.png]] "Part 1 of Ten-- Wait, I Mean 'Six' Things Every Airman Must Know About Cyberspace-- Wait, I Mean 'the Internet'"\nhttp://web.archive.org/web/20110130225229/http://securitycritics.org/2010/10/17/six-things
+10-17 "Part 1 of Ten-- Wait, I Mean 'Six' Things Every Airman Must Know About Cyberspace-- Wait, I Mean 'the Internet'"\nhttp://web.archive.org/web/20110130225229/http://securitycritics.org/2010/10/17/six-things\n\nCheck out the CARTOON VIDEO we made for this column!\nhttps://youtu.be/--LcQZfzkPs
 09-20 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2010/lynn-coin.jpg]] "Pentagon’s INFOCON status doesn’t match 'Buckshot Yankee' timeline"\nhttp://web.archive.org/web/20100920082018/http://securitycritics.org/2010/09/20/oby-3
 09-19 "MFR to all USAF MAJCOM A6" (plus #US_CYBERCOM)\nhttp://web.archive.org/web/20100920082018/http://securitycritics.org/2010/09/19/majcom
 09-13 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2010/lynn-coin.jpg]] "U.S. Defense Secretary Robert Gates needs to raise a lowered bar"\nhttp://web.archive.org/web/20100920082018/http://securitycritics.org/2010/09/13/oby
@@ -920,10 +922,10 @@
 #    0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8
 #    01234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-# 2010 completed for best URLs
+# 2010 completed for best URLs, images, and Twitter names
 11-30 A *third* cyber-terror expert dies in a physical terror attack\nhttp://web.archive.org/web/20101130082013/http://vmyths.com/2010/11/30/stuxnet-2\nhttps://twitter.com/vmyths/status/1285925169752674305
-11-28 Does #InfoWorld's "Gulf War printer virus" April Fool's story have roots in a WWII sailor’s tale?\nhttp://web.archive.org/web/20101130083423/http://vmyths.com/2010/11/28/wwii
-11-09 Computer virus not behind a bizarre $6-20 million extortion scheme\nhttp://web.archive.org/web/20101113183455/http://vmyths.com/2010/11/09/bedi
+11-28 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2010/concocted.png]] [[/home/rob/Twitter/accounts/vmyths/photos/rants/2010/uss-nc.jpg]] Does #InfoWorld's "Gulf War printer virus" April Fool's story have roots in a WWII sailor’s tale?\nhttp://web.archive.org/web/20101130083423/http://vmyths.com/2010/11/28/wwii
+11-09 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2010/pianist.png]] Computer virus NOT behind a bizarre $6-20 million extortion scheme\nhttp://web.archive.org/web/20101113183455/http://vmyths.com/2010/11/09/bedi
 09-27 #SANSInstitute "Threat Level" remains green over #Stuxnet hysteria (featuring #JoeWeissBlog and #MarcusSachs!)\nhttp://web.archive.org/web/20101013224034/http://vmyths.com/2010/09/27/sans
 09-24 #Stuxnet worm smells like overhype\nhttp://web.archive.org/web/20101013224034/http://vmyths.com/2010/09/24/stuxnet
 09-20 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2010/AV_tactics.png]] #ZoneAlarm dabbling in "scareware" tactics\nhttp://web.archive.org/web/20101013224034/http://vmyths.com/2010/09/20/zonealarm
@@ -931,7 +933,6 @@
 08-30 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2010/koth.png]] Virus experts play "king of the hill" on Twitter (featuring then-#Sophos guru #gcluley!)\nhttp://web.archive.org/web/20101013224034/http://vmyths.com/2010/08/30/twitter-3
 08-27 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2010/lynn-coin.jpg]] Today’s DEPSECDEF plagiarized his predecessor’s "wake-up call" (featuring TWO #DepSecDef alumni!)\nhttp://web.archive.org/web/20100828103936/http://vmyths.com/2010/08/27/oby-2
 08-26 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2010/lynn-coin.jpg]] Gov’t hype surrounds "Operation Buckshot Yankee" (featuring former #DepSecDef William J. Lynn)\nhttp://web.archive.org/web/20100828103936/http://vmyths.com/2010/08/26/oby
-
 ################################################################################
 ################################################################################
 #####                         SECURITYCRITICS.ORG                          #####
