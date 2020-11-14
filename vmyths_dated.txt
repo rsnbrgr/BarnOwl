@@ -254,15 +254,15 @@
 #    0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8
 #    01234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-# 2000
-12-27 Stock price, schmock price\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/12/27
-12-26 Mr. Rosenberger goes to Washington\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/12/26
-12-15 Nextel's soap opera (act 3, scene 1)\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/12/15
-12-12 Nokia to develop virus plug-ins?\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/12/12
-12-10 #RichardClarke's 'digital Pearl Harbor'\n(aka #DrunkCyberczar)\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/12/10
-12-08 Correction: Internet to die on the real millennium\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/12/8
-12-07 Vmyths.com: the third lost episode\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/12/7
-12-01 Reporters to start sniffing Naptha?\nhttp://web.archive.org/web/http://vmyths.com/column/1/2000/12/1
+# 2000 completed for best URLs
+12-27 Stock price, schmock price\nhttp://web.archive.org/web/20010619202438/http://vmyths.com/rant.cfm?id=276&page=4
+12-26 Mr. Rosenberger goes to Washington (featuring #daav0, and #RichardClarke aka #DrunkCyberCzar!)\nhttp://web.archive.org/web/20010405112450/http://www.vmyths.com/rant.cfm?id=274&page=4
+12-15 Nextel's soap opera (act 3, scene 1)\nhttp://web.archive.org/web/20010405111511/http://www.vmyths.com/rant.cfm?id=273&page=4
+12-12 Nokia to develop virus plug-ins?\nhttp://web.archive.org/web/20010405111401/http://www.vmyths.com/rant.cfm?id=272&page=4
+12-10 #RichardClarke's 'digital Pearl Harbor'\n(aka #DrunkCyberczar)\nhttp://web.archive.org/web/20010405112205/http://www.vmyths.com/rant.cfm?id=271&page=4
+12-08 Correction: Internet to die on the real millennium\nhttp://web.archive.org/web/20010124071600/http://vmyths.com/rant.cfm?id=270&page=4
+12-07 Vmyths.com: the third lost episode\nhttp://web.archive.org/web/20010405110102/http://www.vmyths.com/rant.cfm?id=269&page=4
+12-01 Reporters to start sniffing Naptha?\nhttp://web.archive.org/web/20010405114120/http://www.vmyths.com/rant.cfm?id=268&page=4
 11-30 Vmyths.com: the second lost episode\nhttp://web.archive.org/web/20010405115329/http://www.vmyths.com/rant.cfm?id=265&page=4
 11-29 Vmyths.com: the first lost episode (featuring #RayQuattromini!)\nhttp://web.archive.org/web/20011121174714/http://vmyths.com/rant.cfm?id=264&page=4
 11-28 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2000/Guinness.png]] Guinness World Records voted on the facts — and the #Melissa virus demanded a recount\nhttp://web.archive.org/web/20010405113522/http://www.vmyths.com/rant.cfm?id=263&page=4
@@ -278,7 +278,7 @@
 11-18 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2000/XmasISS.png]] The Grinch who stole e-Christmas\nhttp://web.archive.org/web/20010406120151/http://www.vmyths.com:80/rant.cfm?id=251&page=4
 11-17 Annnnnnddddd… they're off!\nhttp://web.archive.org/web/20010406121330/http://www.vmyths.com/rant.cfm?id=250&page=4
 11-16 We need more 'citizen journalists'\nhttp://web.archive.org/web/20010406120126/http://vmyths.com/rant.cfm?id=249&page=4
-11-14 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2000/CyberTerror.png]] Raid on E-tebbe, part 1\nhttp://web.archive.org/web/20040417002654/http://vmyths.com/rant.cfm?id=248&page=4
+11-14 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2000/CyberTerror.png]] Raid on E-tebbe, part 1\nhttp://web.archive.org/web/20010406115048/http://www.vmyths.com:80/rant.cfm?id=248&page=4
 11-10 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2000/ElectionCycle.png]] Basic fact checking\nhttp://web.archive.org/web/20010406115024/http://www.vmyths.com/rant.cfm?id=246&page=4
 11-07 Horror Stories 101, semester 1 (featuring award-winning #CISSP Dan Erwin!)\nhttp://web.archive.org/web/20010406114221/http://www.vmyths.com:80/rant.cfm?id=245&page=4
 11-02 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2000/SimpleRule.png]] [[/home/rob/Twitter/accounts/vmyths/photos/rants/2000/MessagelabsTest.png]] A simple filter rule stops #ILOVEYOU (in which MessageLabs analyzed customers' emails to provide real data for this column)\nhttp://web.archive.org/web/20010404234833/http://vmyths.com/rant.cfm?id=239&page=4
@@ -300,9 +300,9 @@
 06-06 The 56th anniversary of D(elete)-Day\nhttp://web.archive.org/web/20010110204800/http://www.vmyths.com/rant.cfm?id=146&page=4
 05-31 More #ILOVEYOU humor to brighten your day\nhttp://web.archive.org/web/20010110204100/http://www.vmyths.com/rant.cfm?id=144&page=4
 05-30 Computer Economics, Inc. (featuring #CompEcon!)\nhttp://web.archive.org/web/20010116092200/http://vmyths.com/rant.cfm?id=143&page=4
-05-28 Hey, I know! Let's cover old news\nhttp://web.archive.org/web/20030628212337/http://www.vmyths.com/rant.cfm?id=142&page=4
+05-28 Hey, I know! Let's cover old news\nhttp://web.archive.org/web/20010116091500/http://vmyths.com/rant.cfm?id=142&page=4
 05-27 Venezuela uses FIGHTER JETS in the war against computer viruses to stop an attack on their national election!\nhttp://web.archive.org/web/20010116090700/http://vmyths.com/rant.cfm?id=141&page=4
-05-26 Another poll embarrasses the fearmongers (part 3)\nhttp://web.archive.org/web/20030703070700/http://vmyths.com/rant.cfm?id=140&page=4
+05-26 Another poll embarrasses the fearmongers (part 3)\nhttp://web.archive.org/web/20010116090000/http://vmyths.com/rant.cfm?id=140&page=4
 05-25 Job offers pour in for #ILOVEYOU suspect\nhttp://web.archive.org/web/20010116084400/http://vmyths.com/rant.cfm?id=139&page=4
 05-24 Nextel's virus soap opera, part 2\nhttp://web.archive.org/web/20011121203822/http://vmyths.com/rant.cfm?id=138&page=4
 05-23 A trick question: exactly *what* records did #ILOVEYOU break?\nhttp://web.archive.org/web/20010405145249/http://vmyths.com/rant.cfm?id=137&page=4
@@ -347,12 +347,12 @@
 02-11 Flight 261, grieving families … and a computer virus\nhttp://web.archive.org/web/20010407214951/http://www.vmyths.com/rant.cfm?id=98&page=4
 02-02 Taiwan threatens China with 1,000 computer viruses in an "all-out cyber war"!\nhttp://web.archive.org/web/20010405121139/http://vmyths.com/rant.cfm?id=97&page=4
 02-01 Rob files a mea culpa\nhttp://web.archive.org/web/20010407214418/http://www.vmyths.com/rant.cfm?id=96&page=4
-01-31 No viruses were harmed in this commercial\nhttp://web.archive.org/web/20040327033539/http://www.vmyths.com/rant.cfm?id=95&page=4
-01-14 Two words: 'nothing happened'\nhttp://web.archive.org/web/20110521015252/http://vmyths.com/column/1/2000/1/14
-01-13 The Y2K Virus Media Fiasco\nhttp://web.archive.org/web/20100424063546/http://vmyths.com:80/2000/01/13/y2k-virus
-01-11 I wish the SEC could protect us from this kind of logic\nhttp://web.archive.org/web/20110521015252/http://vmyths.com/column/1/2000/1/11
-01-09 Let me guess — they used HotMail instead\nhttp://web.archive.org/web/20110521015252/http://vmyths.com/column/1/2000/1/9
-01-02 Y2K virus fighter bitten by Y2K bug (again)\nhttp://web.archive.org/web/20110521015252/http://vmyths.com/column/1/2000/1/2
+01-31 No viruses were harmed in this commercial\nhttp://web.archive.org/web/20010411213834/http://www.vmyths.com/rant.cfm?id=95&page=4
+01-14 Two words: 'nothing happened' (featuring #bontchev and #Sophos!)\nhttp://web.archive.org/web/20010407213924/http://www.vmyths.com/rant.cfm?id=94&page=4
+01-13 The Y2K Virus Media Fiasco\nhttp://web.archive.org/web/20040507102731/http://vmyths.com/rant.cfm?id=278&page=4
+01-11 I wish the SEC could protect us from this kind of logic (featuring #Gartner_inc!)\nhttp://web.archive.org/web/20010407213840/http://www.vmyths.com/rant.cfm?id=93&page=4
+01-09 Let me guess — they used HotMail instead\nhttp://web.archive.org/web/20010407213003/http://www.vmyths.com/rant.cfm?id=92&page=4
+01-02 Y2K virus fighter bitten by Y2K bug (again)\nhttp://web.archive.org/web/20010407212548/http://www.vmyths.com/rant.cfm?id=91&page=4
 
 ################################################################################
 ################################################################################
@@ -364,15 +364,15 @@
 #    0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8
 #    01234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-# 2001
-12-28 I go to absurd lengths to follow #SANSInstitute' advice\nhttp://web.archive.org/web/20110521015417/http://vmyths.com/column/1/2001/12/28
-12-25 Gift of the virii\nhttp://web.archive.org/web/20110521015417/http://vmyths.com/column/1/2001/12/25
+# 2001 completed for best URLs
+12-28 I go to absurd lengths to follow #SANSInstitute's advice\nhttp://web.archive.org/web/20020105000841/http://vmyths.com/rant.cfm?id=435&page=4\n\nAs read by the author:\nhttps://youtu.be/0YNEqOWQsas
+12-25 Gift of the virii\nhttp://web.archive.org/web/20020215055052/http://vmyths.com/rant.cfm?id=434&page=4
 12-24 XP makes it a scary Xmas\nhttp://web.archive.org/web/20020110013353/http://vmyths.com/rant.cfm?id=433&page=4\n\nAs read by the author:\nhttps://youtu.be/OxCdoxxUUq0
-12-23 Another 'expert legend' in the making\nhttp://web.archive.org/web/20110521015417/http://vmyths.com/column/1/2001/12/23
-12-14 Soldier: 'I'd prefer cyberwar over a real war'\nhttp://web.archive.org/web/20110521015417/http://vmyths.com/column/1/2001/12/14
-12-12 'Fibs' are just well-meaning lies\nhttp://web.archive.org/web/20110521015417/http://vmyths.com/column/1/2001/12/12
-12-11 And that's a fact!\nhttp://web.archive.org/web/20110521015417/http://vmyths.com/column/1/2001/12/11
-12-10 Service provider attacks (SPAs)\nhttp://web.archive.org/web/20110521015417/http://vmyths.com/column/1/2001/12/10
+12-23 Another 'expert legend' in the making\nhttp://web.archive.org/web/20020110013111/http://vmyths.com/rant.cfm?id=432&page=4\n\nAs read by the author:\nhttps://youtu.be/_fXEDH7QFwA
+12-14 Soldier: 'I'd prefer cyberwar over a real war'\nhttp://web.archive.org/web/20011216200551/http://vmyths.com/rant.cfm?id=430&page=4
+12-12 'Fibs' are just well-meaning lies\nhttp://web.archive.org/web/20011214124159/http://vmyths.com/rant.cfm?id=429&page=4\n\nAs read by the author:\nhttps://youtu.be/0grQttuLhYs
+12-11 And that's a fact!\nhttp://web.archive.org/web/20011214113309/http://vmyths.com/rant.cfm?id=427&page=4\n\nAs read by the author:\nhttps://youtu.be/WlbVsAdA-lM
+12-10 Service provider attacks (SPAs)\nhttp://web.archive.org/web/20011217144601/http://vmyths.com/rant.cfm?id=426&page=4\n\nAs read by the author:
 11-12 Believe me: we're in good hands (featuring #caroworkshop!)\nhttp://web.archive.org/web/20011114034355/http://vmyths.com/rant.cfm?id=420&page=4\n\nAs read by the author:\nhttps://youtu.be/ZZuYXYE7JAs\nhttps://twitter.com/vmyths/status/986584096204828673
 11-10 Pentagon will destroy the Taliban — with a computer virus (featuring #RichardClarke aka #DrunkCyberczar!)\nhttp://web.archive.org/web/20011112045117/http://vmyths.com/rant.cfm?id=419&page=4\n\nAs read by the author:\nhttps://youtu.be/YB8EEVQtCnY
 11-01 Let slip the dogs of virus war, part 3\nhttp://web.archive.org/web/20011217144604/http://vmyths.com/rant.cfm?id=417&page=4\n\nAs read by the author:\nhttps://youtu.be/Bc04QpOyqD4
@@ -454,12 +454,12 @@
 02-07 Itty bitty mental lapse at the Itty Bitty Machine Co.\nhttp://web.archive.org/web/20010408045331/http://vmyths.com/rant.cfm?id=299&page=4
 02-05 Vmyths.com uncovers a willing scapegoat, part 2 (featuring #bontchev!)\nhttp://web.archive.org/web/20020215070702/http://vmyths.com/rant.cfm?id=298&page=4
 02-02 Vmyths.com uncovers a willing scapegoat, part 1\nhttp://web.archive.org/web/20011121190624/http://vmyths.com/rant.cfm?id=296&page=4
-01-29 First IBM PC virus celebrates 15th birthday\nhttp://web.archive.org/web/20040509202940/http://vmyths.com/rant.cfm?id=295&page=4
-01-18 Network Associates telethon fund, part 1 (featuring #IHackedWhat!)\nhttp://web.archive.org/web/http://vmyths.com/column/1/2001/1/18
-01-14 Horror Stories 101, semester 2 (featuring award-winning #CISSP Dan Erwin!)\nhttp://web.archive.org/web/http://vmyths.com/column/1/2001/1/14
-01-10 Mr. Rosenberger goes to Washington, take 2\nhttp://web.archive.org/web/http://vmyths.com/column/1/2001/1/10
-01-04 Amazingly, we even survived the real millennium!\nhttp://web.archive.org/web/http://vmyths.com/column/1/2001/1/4
-01-03 Raid on E-tebbe, part 4\nhttp://web.archive.org/web/http://vmyths.com/column/1/2001/1/3
+01-29 First IBM PC virus celebrates 15th birthday\nhttp://web.archive.org/web/20010408044105/http://vmyths.com/rant.cfm?id=295&page=4
+01-18 Network Associates telethon fund, part 1 (featuring #IHackedWhat!)\nhttp://web.archive.org/web/20010128203600/http://www.vmyths.com/rant.cfm?id=293%26page=4
+01-14 Horror Stories 101, semester 2 (featuring award-winning #CISSP Dan Erwin!)\nhttp://web.archive.org/web/20010405071005/http://www.vmyths.com:80/rant.cfm?id=292&page=4
+01-10 Mr. Rosenberger goes to Washington, take 2\nhttp://web.archive.org/web/20010408043041/http://vmyths.com:80/rant.cfm?id=286&page=4
+01-04 Amazingly, we even survived the real millennium!\nhttp://web.archive.org/web/20010406013137/http://vmyths.com:80/rant.cfm?id=285&page=4
+01-03 Raid on E-tebbe, part 4\nhttp://web.archive.org/web/20010408042121/http://vmyths.com/rant.cfm?id=284&page=4
 
 ################################################################################
 ################################################################################
@@ -471,11 +471,11 @@
 #    0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8
 #    01234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-# 2002
-12-31 Cyber-terrorism strikes Vmyths!\nhttp://web.archive.org/web/20110521015447/http://vmyths.com/column/1/2002/12/31
-12-26 Osama bin Virus, part 2\nhttp://web.archive.org/web/20110521015447/http://vmyths.com/column/1/2002/12/26
-12-13 Euthanize the Internet\nhttp://web.archive.org/web/20021231105912/http://www.vmyths.com/rant.cfm?id=530&page=4
-12-04 He asked for a critique and he *got* one\nhttp://web.archive.org/web/20110521015447/http://vmyths.com/column/1/2002/12/4
+# 2002 completed for best URLs
+12-31 Cyber-terrorism strikes Vmyths!\nhttp://web.archive.org/web/20030114200758/http://vmyths.com/rant.cfm?id=533&page=4\n\nOriginal audio from the press conference:\nhttps://youtu.be/BN3RcXMFRRU
+12-26 Osama bin Virus, part 2\nhttp://web.archive.org/web/20030114111126/http://vmyths.com/rant.cfm?id=532&page=4\n\nAs read by the author:\nhttps://youtu.be/oCyqUzIx2eM
+12-13 Euthanize the Internet\nhttp://web.archive.org/web/20030217041618/http://vmyths.com/rant.cfm?id=530&page=4
+12-04 He asked for a critique and he *got* one\nhttp://web.archive.org/web/20030301210147/http://www.vmyths.com/rant.cfm?id=529&page=4
 11-30 Shrieking Sheikh Bakri, part 2 (featuring #DanielVerton!)\nhttp://web.archive.org/web/20021215084125/http://www.vmyths.com/rant.cfm?id=528&page=4\n\nAs read by the author:\nhttps://youtu.be/WoImQwRF3fU
 11-29 Shrieking Sheikh Bakri, part 1 (featuring #DanielVerton!)\nhttp://web.archive.org/web/20030217021231/http://vmyths.com/rant.cfm?id=527&page=4\n\nAs read by the author:\nhttps://youtu.be/Ju1MpejVQ7w
 11-28 What is "near-terrorism," anyway?\nhttp://web.archive.org/web/20021215082333/http://www.vmyths.com/rant.cfm?id=526&page=4\n\nAs read by the author:\nhttps://youtu.be/fEI_2Z-y-rc
@@ -512,7 +512,7 @@
 05-30 21 limericks = 20 months\nhttp://web.archive.org/web/20021018184434/http://vmyths.com/rant.cfm?id=486&page=4\n\nAs read by the author:\nhttps://www.youtube.com/watch?v=PAJkjStKTkI
 05-29 The China Syndrome, part 7\nhttp://web.archive.org/web/20021021024527/http://vmyths.com/rant.cfm?id=485&page=4\n\nAs read by the author:\nhttps://www.youtube.com/watch?v=yaSYpezxjck
 04-26 The China Syndrome, part 6\nhttp://web.archive.org/web/20021014185245/http://vmyths.com/rant.cfm?id=482&page=4\n\nAs read by the author:\nhttps://www.youtube.com/watch?v=5pRsyyeg-Vg
-04-24 Raid on E-tebbe, part 6 (featuring #dkmatai, #jleyden and crooner #HowardJones!)\nhttp://web.archive.org/web/20021018212400/http://vmyths.com/rant.cfm?id=481&page=4\n\nAs read by the author:\nhttps://www.youtube.com/watch?v=IsexRXMEdPE
+04-24 Raid on E-tebbe, part 6 (featuring #dkmatai, #jleyden and 1980s crooner #HowardJones!)\nhttp://web.archive.org/web/20021018212400/http://vmyths.com/rant.cfm?id=481&page=4\n\nAs read by the author:\nhttps://www.youtube.com/watch?v=IsexRXMEdPE
 04-04 Guninski's giant gamete glands, part 2\nhttp://web.archive.org/web/20020522022513/http://vmyths.com/rant.cfm?id=479&page=4\n\nAs read by the author:\nhttps://www.youtube.com/watch?v=CF7GR1gtF40
 04-03 Guninski's giant gamete glands, part 1\nhttp://web.archive.org/web/20020606124232/http://vmyths.com/rant.cfm?id=478&page=4\n\nAs read by the author:\nhttps://www.youtube.com/watch?v=G99uyZeZA_A
 03-28 Ouch! Hoax virus story on SecurityNewsPortal's front page\nhttp://web.archive.org/web/20020408052332/http://vmyths.com/rant.cfm?id=472&page=4
@@ -524,15 +524,15 @@
 02-06 State of the cyber-union (featuringg #richardclarke aka #DrunkCyberCzar!)\nhttp://web.archive.org/web/20020215055529/http://vmyths.com/rant.cfm?id=452&page=4\n\nAs read by the author:\nhttps://www.youtube.com/watch?v=uRitv2suvCs
 02-05 Speculating Creatively About Dastardly Attacks (SCADA) (featuring #kpoulsen!)\nhttp://web.archive.org/web/20020213043004/http://vmyths.com/rant.cfm?id=451&page=4\n\nAs read by the author:\nhttps://www.youtube.com/watch?v=CkBYVSLBV1A
 02-01 When screensavers are outlawed, only outlaws will have screensavers\nhttp://web.archive.org/web/20020201182036/http://vmyths.com/rant.cfm?id=450&page=4\n\nAs read by the author:\nhttps://www.youtube.com/watch?v=U1tFyp9HCYM
-01-27 Success by implied association, part 2\nhttp://web.archive.org/web/20040510044431/http://vmyths.com/rant.cfm?id=448&page=4\n\nAs read by the author:\nhttps://www.youtube.com/watch?v=bBeuTjmWnak
-01-26 Success by implied association, part 1\nhttp://web.archive.org/web/20040630221505/http://www.vmyths.com/rant.cfm?id=447&page=4\n\nAs read by the author:\nhttps://www.youtube.com/watch?v=bBeuTjmWnak
-01-18 Michael Vatis in the news again\nhttp://web.archive.org/web/http://vmyths.com/column/1/2002/1/18\n\nAs read by the author:\nhttps://www.youtube.com/watch?v=IGerorbVVcs
-01-17 Gypsys Tramps & Thieves (featuring #Sophos and #jleyden!)\nhttp://web.archive.org/web/http://vmyths.com/column/1/2002/1/17
-01-15 MessageLabs rebuttal\nhttp://web.archive.org/web/http://vmyths.com/column/1/2002/1/15
-01-13 The incredible melting story\nhttp://web.archive.org/web/http://vmyths.com/column/1/2002/1/13\n\nAs read by the author:\nhttps://www.youtube.com/watch?v=Mk-h6Tcj_Lg
-01-10 "I think you owe me a dollar"\nhttp://web.archive.org/web/http://vmyths.com/column/1/2002/1/10\n\nAs read by the author:\nhttps://www.youtube.com/watch?v=jghfLV3chsA
-01-06 Memo to FBI NIPC webmaster\nhttp://web.archive.org/web/http://vmyths.com/column/1/2002/1/6
-01-04 "Because I'm the mommy, that's why!"\nhttp://web.archive.org/web/http://vmyths.com/column/1/2002/1/4\n\nAs read by the author:\nhttps://www.youtube.com/watch?v=G24xS9_0GcA
+01-27 Success by implied association, part 2\nhttp://web.archive.org/web/20020202023300/http://vmyths.com/rant.cfm?id=448&page=4\n\nAs read by the author:\nhttps://www.youtube.com/watch?v=bBeuTjmWnak
+01-26 Success by implied association, part 1\nhttp://web.archive.org/web/20020613174845/http://vmyths.com/rant.cfm?id=447&page=4\n\nAs read by the author:\nhttps://www.youtube.com/watch?v=bBeuTjmWnak
+01-18 Michael Vatis in the news again\nhttp://web.archive.org/web/20020202023145/http://vmyths.com/rant.cfm?id=445&page=4\n\nAs read by the author:\nhttps://www.youtube.com/watch?v=IGerorbVVcs
+01-17 Gypsys Tramps & Thieves (featuring #Sophos and #jleyden!)\nhttp://web.archive.org/web/20020208132029/http://vmyths.com/rant.cfm?id=444&page=4
+01-15 MessageLabs rebuttal\nhttp://web.archive.org/web/20020202021314/http://vmyths.com/rant.cfm?id=442&page=4
+01-13 The incredible melting story\nhttp://web.archive.org/web/20020202014601/http://vmyths.com/rant.cfm?id=441&page=4\n\nAs read by the author:\nhttps://www.youtube.com/watch?v=Mk-h6Tcj_Lg
+01-10 "I think you owe me a dollar"\nhttp://web.archive.org/web/20020202020402/http://vmyths.com/rant.cfm?id=439&page=4\n\nAs read by the author:\nhttps://www.youtube.com/watch?v=jghfLV3chsA
+01-06 Memo to FBI NIPC webmaster\nhttp://web.archive.org/web/20020117171323/http://vmyths.com:80/rant.cfm?id=438&page=4
+01-04 "Because I'm the mommy, that's why!"\nhttp://web.archive.org/web/20020618102352/http://vmyths.com/rant.cfm?id=437&page=4\n\nAs read by the author:\nhttps://www.youtube.com/watch?v=G24xS9_0GcA
 
 ################################################################################
 ################################################################################
@@ -562,7 +562,7 @@
 06-12 Cyber-terrorism strikes Iowa!\nhttp://web.archive.org/web/20030620204100/http://vmyths.com/rant.cfm?id=606&page=4\n\nAs read by the author:\nhttps://youtu.be/BN3RcXMFRRU
 06-11 Better antivirus software is *worse* than a virus?\nhttp://web.archive.org/web/20030617145611/http://vmyths.com/rant.cfm?id=605&page=4\n\nAs read by the author:\nhttps://youtu.be/OYZ7TmTWoW0
 06-10 Raw sockets: two years and counting (down?), part 3 (featuring #SGgrc)\nhttp://web.archive.org/web/20030629121916/http://www.vmyths.com/rant.cfm?id=604&page=4
-06-09 Raw sockets: two years and counting (down?), part 2 (featuring #SGgrc)\nhttp://web.archive.org/web/20030629121751/http://www.vmyths.com/rant.cfm?id=603&page=4
+06-09 Raw sockets: two years and counting (down?), part 2 (featuring #SGgrc, where John McAfee )\nhttp://web.archive.org/web/20030629121751/http://www.vmyths.com/rant.cfm?id=603&page=4
 06-02 Raw sockets: two years and counting (down?), part 1 (featuring #SGgrc)\nhttp://web.archive.org/web/20030621190325/http://www.vmyths.com/rant.cfm?id=601&page=4
 06-01 U.Calgary's virus-writing course (chapter 4)\nhttp://web.archive.org/web/20030609165525/http://vmyths.com/rant.cfm?id=600&page=4\n\nAs read by the author:\nhttps://youtu.be/BB0xBt4YvhY
 05-31 U.Calgary's virus-writing course (chapter 3)\nhttp://web.archive.org/web/20030618121630/http://www.vmyths.com/rant.cfm?id=599&page=4
@@ -628,55 +628,74 @@
 #    0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8
 #    01234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-# 2004
-12-30 #dkmatai's shill firm mi2g issued a press release for the Red Cross\nhttp://web.archive.org/web/20110521015539/http://vmyths.com/column/1/2004/12/30
-12-25 Night of the meek\nhttp://web.archive.org/web/20110521015539/http://vmyths.com/column/1/2004/12/25
-12-22 Reporters give virus writers more privacy than they give to a victimized newborn\nhttp://web.archive.org/web/20110521015539/http://vmyths.com/column/1/2004/12/22
-12-21 Southern Road Trip (interview #13)\nhttp://web.archive.org/web/20110521015539/http://vmyths.com/column/1/2004/12/21
-12-20 Open letter to mi2g's founder & CEO #dkmatai\nhttp://web.archive.org/web/20110521015539/http://vmyths.com/column/1/2004/12/20
-12-19 Computer security means nothing to Joe SixPack\nhttp://web.archive.org/web/20110521015539/http://vmyths.com/column/1/2004/12/19
-12-12 Robert Vamosi flip-flops on "electronic Pearl Harbor"\nhttp://web.archive.org/web/20110521015539/http://vmyths.com/column/1/2004/12/12
-11-16 The significance of one handwritten resignation letter\nhttp://web.archive.org/web/20041124021125/http://vmyths.com/rant.cfm?id=687&page=4
+# 2004 completed for best URLs
+12-30 #dkmatai's shill firm mi2g issued a press release for the Red Cross\nhttp://web.archive.org/web/20050107173430/http://vmyths.com/rant.cfm?id=697&page=4
+12-25 Night of the meek\nhttp://web.archive.org/web/20050206181955/http://www.vmyths.com:80/rant.cfm?id=696&page=4
+12-22 Reporters give virus writers more privacy than they give to a victimized newborn\nhttp://web.archive.org/web/20050107173336/http://vmyths.com/rant.cfm?id=695&page=4\n\nAs read by the author:\nhttps://youtu.be/3U91mC1SemY
+12-21 Southern Road Trip (interview #13)\nhttp://web.archive.org/web/20050206175920/http://www.vmyths.com:80/rant.cfm?id=694&page=4\n\nListen to the audio!\nhttps://archive.org/details/1_20201112_20201112_2051/Shell.mp3
+12-20 A brutal (yes, "brutal") open letter to mi2g's founder & CEO #dkmatai\nhttp://web.archive.org/web/20050106014842/http://vmyths.com/rant.cfm?id=693&page=4\n\nAs read by the author:\nhttps://youtu.be/kAWcU68dNJA
+12-19 Computer security means nothing to Joe SixPack\nhttp://web.archive.org/web/20050106014047/http://vmyths.com/rant.cfm?id=692&page=4
+12-12 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2004/Vamosi.png]] #RobertVamosi flip-flops on "electronic Pearl Harbor"\nhttp://web.archive.org/web/20041227084923/http://www.vmyths.com/rant.cfm?id=690&page=4
+11-16 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2004/1116/bic_logo.gif]] The significance of one handwritten resignation letter\nhttp://web.archive.org/web/20041124021125/http://vmyths.com/rant.cfm?id=687&page=4
 11-15 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2004/AVfail.png]] Let's give thanks for #antivirus software that so often FAILS to do its job\nhttp://web.archive.org/web/20041117112934/http://vmyths.com/rant.cfm?id=686&page=4
-11-13 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2004/PhDisError404.png]] #dkmatai's shill firm mi2g plays the "voice of sanity" card\nhttp://web.archive.org/web/20041124020135/http://vmyths.com/rant.cfm?id=685&page=4
+11-13 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2004/PhDisError404.png]] [[/home/rob/Twitter/accounts/vmyths/photos/rants/2004/1113/matai.jpg]] #dkmatai's shill firm mi2g plays the "voice of sanity" card\nhttp://web.archive.org/web/20041124020135/http://vmyths.com/rant.cfm?id=685&page=4
 10-25 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2004/1025/hazard.jpg]] Still waiting for JPEGs to kill the Internet, part 2\nhttp://web.archive.org/web/20041031055802/http://vmyths.com/rant.cfm?id=684&page=4
 10-18 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2004/1025/hazard.jpg]] Still waiting for JPEGs to kill the Internet, part 1\nhttp://web.archive.org/web/20041023143818/http://www.vmyths.com/rant.cfm?id=681&page=4
 09-21 [[/home/rob/Twitter/accounts/vmyths/photos/rants/addicted.gif]] In our first unscientific poll of Vmyths readers, we asked "did you know some antivirus firms offer a true 100% virus detection guarantee, or your money back?"\n\nhttp://web.archive.org/web/20041021053125/http://vmyths.com/rant.cfm?id=679&page=4
 09-08 #SGgrc 1, Microsoft 0 (background info) (featuring -- no joke -- #Dracula and his #Minions!)\nhttp://web.archive.org/web/20041011135722/http://vmyths.com/rant.cfm?id=677&page=4
 09-07 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2004/0907/YouWon.png]] #SGgrc 1, Microsoft 0\nhttp://web.archive.org/web/20041010235519/http://vmyths.com/rant.cfm?id=676&page=4
-09-01 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2004/0901/basayev.jpg]] Cyber-terror caught on film -- let's caption the photo! (featuring #perhellqvist, #ihackedwhat, plus a name #WDWilliams65 will recognize)\nhttp://web.archive.org/web/20040929165132/http://vmyths.com/rant.cfm?id=674&page=4
+09-01 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2004/0901/basayev.jpg]] [[/home/rob/Twitter/accounts/vmyths/photos/rants/2004/0901/mosnews.jpg]] Cyber-terror caught on film -- let's caption the photo! (featuring #perhellqvist, #ihackedwhat, plus a name #WDWilliams65 will recognize)\nhttp://web.archive.org/web/20040929165132/http://vmyths.com/rant.cfm?id=674&page=4
 08-22 Something finally put the hÿpe in Hyppönen (featuring #mikko but not #mikkoshair)\nhttp://web.archive.org/web/20040926123724/http://www.vmyths.com/rant.cfm?id=672&page=4
 08-18 Next time I'll pitch it as a sitcom (this column beat #ScorpionCBS to the punch by a full decade!)\nhttp://web.archive.org/web/20040910122504/http://vmyths.com/rant.cfm?id=670&page=4
 08-03 Will a computer glitch force American Airlines and U.S. Airways into bankruptcy? (featuring #RighardZw!)\nhttp://web.archive.org/web/20041021062025/http://vmyths.com/rant.cfm?id=666&page=4
-07-27 It's official: #dkmatai's shill firm mi2g has NO sense of humor, part 3\nhttp://web.archive.org/web/20040829021046/http://www.vmyths.com/rant.cfm?id=663&page=4
-07-26 It's official: #dkmatai's shill firm mi2g has NO sense of humor, part 2\nhttp://web.archive.org/web/20040815034108/http://vmyths.com/rant.cfm?id=662&page=4
-07-25 It's official: #dkmatai's shill firm mi2g has NO sense of humor, part 1\nhttp://web.archive.org/web/20040803064834/http://vmyths.com/rant.cfm?id=661&page=4
+07-27 It's official: #dkmatai's shill firm "mi2g" has NO sense of humor, part 3\nhttp://web.archive.org/web/20040829021046/http://www.vmyths.com/rant.cfm?id=663&page=4
+07-26 [[/home/rob/Vmyths/html/mm/rants/2004/0726/ransom.jpg]] It's official: #dkmatai's shill firm "mi2g" has NO sense of humor, part 2\nhttp://web.archive.org/web/20040815034108/http://vmyths.com/rant.cfm?id=662&page=4
+07-25 It's official: #dkmatai's shill firm "mi2g" has NO sense of humor, part 1\nhttp://web.archive.org/web/20040803064834/http://vmyths.com/rant.cfm?id=661&page=4
 07-02 Only antivirus firms will survive Earth's predicted demise\nhttp://web.archive.org/web/20040803064010/http://vmyths.com/rant.cfm?id=659&page=4
 06-25 [[/home/rob/Vmyths/html/mm/rants/2004/0625/triangle.gif]] [[/home/rob/Vmyths/html/mm/rants/2004/0625/triangl2.gif]] [[/home/rob/Vmyths/html/mm/rants/2004/0625/rectangl.gif]] [[/home/rob/Vmyths/html/mm/rants/2004/0625/circle.gif]] GOOD news: Microsoft joins the antivirus industry, part 2\nhttp://web.archive.org/web/20040803063923/http://vmyths.com/rant.cfm?id=657&page=4
 06-23 GOOD news: Microsoft joins the antivirus industry, part 1\nhttp://web.archive.org/web/20040803113743/http://vmyths.com/rant.cfm?id=656&page=4
-06-22 An open letter to the CISO of the American Red Cross\nhttp://web.archive.org/web/20040705081846/http://www.vmyths.com/rant.cfm?id=655&page=4
+06-22 An open letter to the CISO of the American Red Cross\nhttp://web.archive.org/web/20040705081846/http://www.vmyths.com/rant.cfm?id=655&page=4\n\nListen to the CISO's audio clip that spawned this column:\nhttps://youtu.be/4O0BRuo0X0E
 06-01 GRC.com's worst enemy is … Steve Gibson?!? (featuring #SGgrc!)\nhttp://web.archive.org/web/20040613204149/http://vmyths.com/rant.cfm?id=653&page=4
 05-31 "Earth calling Song Young-Keun!"\nhttp://web.archive.org/web/20040613203331/http://vmyths.com/rant.cfm?id=652&page=4\n\nAs read by the author:\nhttps://youtu.be/HLWR0nmevOs
-05-29 Canada shields the identity of *another* cyber-terrorist!\nhttp://web.archive.org/web/20040613201716/http://vmyths.com/rant.cfm?id=651&page=4\n\nAs read by the author:\nhttps://youtu.be/1DWe933zE40
+05-29 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2004/0529/invasion.gif]] Canada shields the identity of *another* cyber-terrorist!\nhttp://web.archive.org/web/20040613201716/http://vmyths.com/rant.cfm?id=651&page=4\n\nAs read by the author:\nhttps://youtu.be/1DWe933zE40
 05-28 When society realizes these five things…\nhttp://web.archive.org/web/20040613200745/http://vmyths.com/rant.cfm?id=650&page=4\n\nAs read by the author:\nhttps://youtu.be/vLmr65PxoYE
 05-27 Memorial Malware Day speech\nhttp://web.archive.org/web/20040613195247/http://vmyths.com/rant.cfm?id=648&page=4
-05-09 Iraqi cyber-insurgents demand release of Sasser & Agobot worm authors "or else!"\nhttp://web.archive.org/web/20060312044914/http://www.vmyths.com/rant.cfm_id=647&page=4.htm
-05-08 Southern Road Trip (commentary #11)\nhttp://web.archive.org/web/20040603061309/http://vmyths.com/rant.cfm?id=646&page=4\n\nAs read by the author:\nhttps://youtu.be/ZmWHPJAg3ko
-05-05 Southern Road Trip (interview #12)\nhttp://web.archive.org/web/20040625014932/http://www.vmyths.com/rant.cfm?id=645&page=4
+05-09 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2004/0509/iraqhakr.jpg]] Iraqi cyber-insurgents demand release of Sasser & Agobot worm authors "or else!"\nhttp://web.archive.org/web/20060312044914/http://www.vmyths.com/rant.cfm_id=647&page=4.htm
+05-08 Southern Road Trip (commentary #11)\nhttp://web.archive.org/web/20040603061309/http://vmyths.com/rant.cfm?id=646&page=4\n\nListen to the audio!\nhttps://archive.org/details/1_20201112_20201112_2051/Psychic.mp3\n\nBonus 4/22/04 #prequel that led up to this:\nhttps://archive.org/details/1_20201112_20201112_2051/PalmRead.mp3
+05-07 Southern Road Trip (probably commentary #10 only in email newsletter, ca. 5/7/04)\n\nA tax prep office where the accountant had a sense of humor and he asked a KILLER question … but he wouldn't let me interview him on tape\nhttp://web.archive.org/web/20040325042109/http://vmyths.com/rant.cfm?id=635&page=4\n\nListen to the audio!\nhttps://archive.org/details/1_20201112_20201112_2051/TaxPrep.mp3
+05-05 Southern Road Trip (interview #12)\nhttp://web.archive.org/web/20040625014932/http://www.vmyths.com/rant.cfm?id=645&page=4\n\nListen to the audio!\nPart 1: https://archive.org/details/1_20201112_20201112_2051/Frankln1.mp3\nPart 2 (hilarious story): https://archive.org/details/1_20201112_20201112_2051/Frankln2.mp3
 05-02 #Sophos now urges 8,760 antivirus updates per year, per computer (featuring #gcluley)!\nhttp://web.archive.org/web/20060312044550/http://www.vmyths.com/rant.cfm_id=644&page=4.htm\n\nAs read by the author:\nhttps://youtu.be/KUUpPdmztsM
 04-26 Arquilla + #dkmatai's shill firm mi2g = {yawn}\nhttp://web.archive.org/web/20040601234744/http://vmyths.com/rant.cfm?id=643&page=4\n\nAs read by the author:\nhttps://youtu.be/CFHaJ2cAt9I
-04-23 #jfgantz predicted cyber-terror would occur in 2003…\nhttp://web.archive.org/web/20040602012452/http://vmyths.com/rant.cfm?id=642&page=4\n\nAs read by the author:\nhttps://youtu.be/kG0kWy8DPg4
-03-28 Southern Road Trip (interview #7)\nhttp://web.archive.org/web/20040625014037/http://www.vmyths.com/rant.cfm?id=641&page=4
+04-23 #jfgantz predicted cyber-terror would occur in 2003…\nhttp://web.archive.org/web/20040602012452/http://vmyths.com/rant.cfm?id=642&page=4\n\nListen to the voicemail that led to this column!\nhttps://archive.org/details/1_20201113_20201113
+
+04-21 Southern Road Trip (bonus audio for column #4, ca. 5/7/04)\n\nPassing by the Saturn plant where they install all sorts of #SCADA technology in every vehicle they make!\nhttp://web.archive.org/web/20040325042109/http://vmyths.com/rant.cfm?id=635&page=4\n\nListen to the audio!\nhttps://archive.org/details/1_20201112_20201112_2051/Saturn.mp3
+04-20 Southern Road Trip (bonus audio for column #4, ca. 5/7/04)\n\nPassing by a Johnson Controls plant where they make #SCADA products…\nhttp://web.archive.org/web/20040325042109/http://vmyths.com/rant.cfm?id=635&page=4\n\nListen to the audio!\nhttps://archive.org/details/1_20201112_20201112_2051/Johnson.mp3
+04-19 Southern Road Trip (bonus audio for column #4, ca. 5/7/04)\n\nEnya? Check. Nine Inch Nails? Check. Manfred Mann? Check. Cyber terror? Check…\nhttp://web.archive.org/web/20040325042109/http://vmyths.com/rant.cfm?id=635&page=4\n\nListen to the audio!\nhttps://archive.org/details/1_20201112_20201112_2051/Enya.mp3
+04-16 Southern Road Trip (bonus audio for column #4, ca. 4/16/04)\n\nAOLQaeda cyber-terrorists struck while I was in a motel room trying to locate a #CompuServe number so I could get Internet access!\nhttp://web.archive.org/web/20040325042109/http://vmyths.com/rant.cfm?id=635&page=4\n\nListen to the audio!\nhttps://archive.org/details/1_20201112_20201112_2051/AOLQaeda.mp3
+04-15 Southern Road Trip (bonus audio for column #4, ca. 4/7/04)\n\nI thought about interviewing some vultures having lunch on the side of the highway because cybersecurity is filled with vultures!\nhttp://web.archive.org/web/20040325042109/http://vmyths.com/rant.cfm?id=635&page=4\n\nListen to the audio!\nhttps://archive.org/details/1_20201112_20201112_2051/Vulture.mp3
+04-14 Southern Road Trip (bonus audio for column #4, ca. 4/7/04)\n\nI saw the evidence with my own eyes: cyber-terrorists struck the town of Port St. Joe, Florida!\nhttp://web.archive.org/web/20040325042109/http://vmyths.com/rant.cfm?id=635&page=4\n\nListen to the audio!\nPart 1: https://archive.org/details/1_20201112_20201112_2051/PtStJoeA.mp3\nPart 2: https://archive.org/details/1_20201112_20201112_2051/PtStJoeB.mp3
+04-13 Southern Road Trip (bonus audio for column #4, ca. 4/5/04)\n\n"This is the inability of first responders to reach a crash scene … in a timely manner … and that means #cyber-terrorists are attacking Nashville!"\nhttp://web.archive.org/web/20040325042109/http://vmyths.com/rant.cfm?id=635&page=4\n\nListen to the audio!\nhttps://archive.org/details/1_20201112_20201112_2051/Respondr.mp3
+04-12 Southern Road Trip (bonus audio for column #4, ca. 3/28/04)\n\nAt some point you'll ask a taxidermist "if a cyber-war breaks out, will ammo be the new currency?"\nhttp://web.archive.org/web/20040325042109/http://vmyths.com/rant.cfm?id=635&page=4\n\nListen to the audio!\nhttps://archive.org/details/1_20201112_20201112_2051/Taxidrmy.mp3
+04-09 Southern Road Trip (bonus audio for column #4, ca. 3/28/04)\n\nThinking about cyber-terrorists while driving through a blast zonehttp://web.archive.org/web/20040325042109/http://vmyths.com/rant.cfm?id=635&page=4\n\nListen to the audio!\nhttps://archive.org/details/1_20201112_20201112_2051/BlstZone.mp3
+04-08 Southern Road Trip (bonus audio for column #4, ca. 3/27/04)\n\nPeople in the south "don't need to worry about cyber-terrorism, they need to worry about kudzu!"\nhttp://web.archive.org/web/20040325042109/http://vmyths.com/rant.cfm?id=635&page=4\n\nListen to the audio!\nhttps://archive.org/details/1_20201112_20201112_2051/Kudzu.mp3
+04-07 Southern Road Trip (bonus audio for column #4, ca. 3/27/04)\n\nThe one where I decided not to scare a bunch of elementary school kids with horrifying tales of cyber-terrorism…\nhttp://web.archive.org/web/20040325042109/http://vmyths.com/rant.cfm?id=635&page=4\n\nListen to the audio!\nhttps://archive.org/details/1_20201112_20201112_2051/School.mp3
+04-06 Southern Road Trip (bonus audio for column #4, ca. 2/29/04)\n\nTrivia: I ended up living on the southern edge of this Florida town for my last DoD career job\nhttp://web.archive.org/web/20040325042109/http://vmyths.com/rant.cfm?id=635&page=4\n\nListen to the audio!\nhttps://archive.org/details/1_20201112_20201112_2051/BagdadFL.mp3
+04-05 Southern Road Trip (bonus audio for column #4, ca. 2/28/04)\n\nThe one where I got pulled over by a cop after I somehow meandered 70 miles using a GPS to look for interesting places to do an interview\nhttp://web.archive.org/web/20040325042109/http://vmyths.com/rant.cfm?id=635&page=4\n\nListen to the audio!\nhttps://archive.org/details/1_20201112_20201112_2051/StopSign.mp3
+04-02 Southern Road Trip (bonus audio for column #4, ca. 1/12/04)\n\nWhere I decided to NOT interview a deer hunter in a pup tent because he (she? they?) had more important things to do than to talk about cyber-terrorism\nhttp://web.archive.org/web/20040325042109/http://vmyths.com/rant.cfm?id=635&page=4\n\nListen to the audio!\nhttps://archive.org/details/1_20201112_20201112_2051/PupTent.mp3
+
+03-30 Southern Road Trip (probably interview #9 only in email newsletter, ca. 2/29/04)\n\nI walked into an "adult store" to interview employees about cyber-terrorists using the @InternetOfDongs to terrorize our private parts\nhttp://web.archive.org/web/20040325042109/http://vmyths.com/rant.cfm?id=635&page=4\n\nListen to the audio!\nhttps://archive.org/details/1_20201112_20201112_2051/Adult.mp3
+03-29 Southern Road Trip (probably interview #8 only in email newsletter, ca. 1/25/04)\n\nControversial interview with a clean-cut hitchhiker suffering from mental health issues\nhttp://web.archive.org/web/20040325042109/http://vmyths.com/rant.cfm?id=635&page=4\n\nListen to the audio:\nhttps://archive.org/details/1_20201112_20201112_2051/Kevin.mp3
+03-28 Southern Road Trip (interview #7)\nhttp://web.archive.org/web/20040625014037/http://www.vmyths.com/rant.cfm?id=641&page=4\n\nListen to the audio!\nhttps://archive.org/details/1_20201112_20201112_2051/pawnshop.mp3
 03-21 Security firm announces it will ATTACK customers at no extra charge!\nhttp://web.archive.org/web/20040518062008/http://vmyths.com/rant.cfm?id=640&page=4
-03-17 Southern Road Trip (commentary #6)\nhttp://web.archive.org/web/20040518062822/http://vmyths.com/rant.cfm?id=639&page=4
+03-17 Southern Road Trip (commentary #6)\nhttp://web.archive.org/web/20040518062822/http://vmyths.com/rant.cfm?id=639&page=4\n\nListen to the audio!\nhttps://archive.org/details/1_20201112_20201112_2051/racoon.mp3
 03-11 The headline is "Did mi2g commit #plagiarism?" but I'll spoil it for you: "#dkmatai's shill firm 'mi2g' plagiarized #fsecure" (featuring #mikko!)\nhttp://web.archive.org/web/20040427122810/http://vmyths.com/rant.cfm?id=638&page=4
-03-10 Let's hold a contest at #dkmatai's shill firm mi2g's expense (featuring #ihackedwhat and #goretsky!)\nhttp://web.archive.org/web/20040427121721/http://vmyths.com/rant.cfm?id=637&page=4
-02-27 Southern Road Trip (interview #5) (featuring #DanielVerton!)\nhttp://web.archive.org/web/20040325042822/http://vmyths.com/rant.cfm?id=636&page=4
-02-22 Southern Road Trip (interview #4)\nhttp://web.archive.org/web/20040325042109/http://vmyths.com/rant.cfm?id=635&page=4
+03-10 Let's hold a contest at #dkmatai's shill firm "mi2g"'s expense (featuring #ihackedwhat and #goretsky!)\nhttp://web.archive.org/web/20040427121721/http://vmyths.com/rant.cfm?id=637&page=4
+02-27 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2004/Berenstain.png]] Southern Road Trip (interview #5) at a library in Montgomery, Alabama where a search for cyber-terrorism turned up The Bearenstain Bears\nhttp://web.archive.org/web/20040325042822/http://vmyths.com/rant.cfm?id=636&page=4\n\nListen to the audio!\nhttps://archive.org/details/1_20201112_20201112_2051/library.mp3
+02-22 Southern Road Trip (interview #4) at the Hank Williams museum where my elderly guide discussed how #cyber could have saved the life of a great country crooner\nhttp://web.archive.org/web/20040325042109/http://vmyths.com/rant.cfm?id=635&page=4\n\nListen to the audio:\nhttps://archive.org/details/1_20201112_20201112_2051/HankWill.mp3
 02-12 You'd think a "senior analyst" would know this…\nhttp://web.archive.org/web/20040504182504/http://www.vmyths.com/rant.cfm?id=633&page=4
-01-27 Southern Road Trip (interview #3)\nhttp://web.archive.org/web/20050214213237/http://www.vmyths.com/rant.cfm?id=632&page=4
-01-22 Southern Road Trip (interview #2)\nhttp://web.archive.org/web/20040602053353/http://vmyths.com/rant.cfm?id=630&page=4
-01-19 Southern Road Trip (interview #1)\nhttp://web.archive.org/web/20040602053353/http://vmyths.com/rant.cfm?id=630&page=4
+01-27 Southern Road Trip (interview #3) where two women at a bar interrogated me and questioned my credentials while I interviewed them on the topic of "cyber-terrorism"\nhttp://web.archive.org/web/20050214213237/http://www.vmyths.com/rant.cfm?id=632&page=4\n\nListen to the audio!\nhttps://archive.org/details/1_20201112_20201112_2051/3.mp3
+01-22 Southern Road Trip (interview #2) with a network technician who admits his firm #ironically makes money from viruses & spyware!\nhttp://web.archive.org/web/20040602053353/http://vmyths.com/rant.cfm?id=631&page=4\n\nListen to the audio!\nhttps://archive.org/details/1_20201112_20201112_2051/pcworks.mp3
+01-19 Southern Road Trip (interview #1) with a person who bought a new computer just to get away from McAfee #antivirus!\nhttp://web.archive.org/web/20040602053353/http://vmyths.com/rant.cfm?id=630&page=4\n\nListen to the audio!\nhttps://archive.org/details/1_20201112_20201112_2051/1.mp3
 
 ################################################################################
 ################################################################################
@@ -692,7 +711,7 @@
 10-12 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2005/Kellner.png]] Open letter to CEO of Continental Airlines\nhttp://web.archive.org/web/20051121153403/http://vmyths.com/rant.cfm?id=730&page=4
 07-22 …And that is why we'll blow up Mecca someday\nhttp://web.archive.org/web/20051222144841/http://vmyths.com/rant.cfm?id=727&page=4
 07-12 Did Clay Wilson play an April Fool's joke on Congress?\nhttp://web.archive.org/web/20051210053935/http://vmyths.com/rant.cfm?id=725&page=4
-07-07 Entertainment vs. computer security (Hollywood does what the #antivirus industry can't: namely, "collect data")\nhttp://web.archive.org/web/20051210053914/http://vmyths.com/rant.cfm?id=724&page=4
+07-07 Entertainment vs. computer security (Hollywood does what the #antivirus industry can't: "collect data")\nhttp://web.archive.org/web/20051210053914/http://vmyths.com/rant.cfm?id=724&page=4
 04-01 Six information security luminaries receive #CISSP certification\nhttps://t.co/eUjFy1eEEm\n\nRead the emails to/from #ISC2's lawyer!\nhttps://t.co/93OI72WxTj
 03-25 Gasp! Vonage is a cyber-terror firm!\nhttp://web.archive.org/web/20060312041253/http://www.vmyths.com/rant.cfm_id=718&page=4.htm
 03-19 Goals for computer security, part 2\nhttp://web.archive.org/web/20060312040538/http://www.vmyths.com/rant.cfm_id=717&page=4.htm
@@ -700,7 +719,7 @@
 03-14 Her Majesty takes a stab at computer security education\nhttp://web.archive.org/web/20060312043421/http://www.vmyths.com/rant.cfm_id=714&page=4.htm
 03-03 ISS 'AlertCon' status is arbitrary and/or prejudiced\nhttp://web.archive.org/web/20050321200557/http://vmyths.com/rant.cfm?id=712&page=4
 03-02 A twelve step program for Antivirus Anonymous\nhttp://web.archive.org/web/20050320161652/http://www.vmyths.com/rant.cfm?id=711&page=4
-02-18 An open letter to the new chairman of US-CERT\nhttp://web.archive.org/web/20050222165136/http://vmyths.com/rant.cfm?id=710&page=4
+02-18 An open letter to the new chairman of US-CERT (featuring the late #howardas)\nhttp://web.archive.org/web/20050222165136/http://vmyths.com/rant.cfm?id=710&page=4
 02-14 #dkmatai's shill firm mi2g's history contradicts the evidence\nhttp://web.archive.org/web/20050219094746/http://vmyths.com/rant.cfm?id=707&page=4
 02-13 #dkmatai's shill firm mi2g sets a new record for absurdity\nhttp://web.archive.org/web/20050219091003/http://vmyths.com/rant.cfm?id=706&page=4
 01-30 "Friendship supercedes business and business supercedes the industry"\nhttp://web.archive.org/web/20050208160128/http://www.vmyths.com/rant.cfm?id=704&page=4
@@ -996,4 +1015,158 @@
 
 # 2015 completed for best URLs, images, and Twitter names
 02-04 "Adrien! Ben! Brian! David! Michael!" An open letter to five young men who just might change the entire world…\nhttp://web.archive.org/web/20150208045927/http://securitycritics.org/2015/02/04/5in9th\n\nhttps://twitter.com/vmyths/status/919743385543565312
+
+#                                                                                1                                                                                                   2                                                                               2
+#          3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8
+#    45678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+# All tweets begin with "THIS DATE IN HYSTERIA\n\n"
+# ellipsis: …
+################################################################################
+################################################################################
+#####                              VMYTHS.COM                              #####
+################################################################################
+################################################################################
+
+# Other columnists completed for best URLs, images, and Twitter names
+
+
+### Lew Koch
+# 2001
+11-30 2001: Vmyths columnist Lewis Z. Koch warned the Gilmore Commission was "proposing a whole other set of conditions" to allow "secret trials in America of Americans accused of alleged criminal acts which are #cyber in nature…"\nhttp://web.archive.org/web/20011130234424/http://vmyths.com/rant.cfm?id=423&page=4
+10-28 2001: Vmyths columnist Lewis Z. Koch laid into "an anti-terrorism commission making recommendations on how to combat cyber-terrorism" only a few weeks after the Twin Towers fell…\nhttp://web.archive.org/web/20011108023246/http://vmyths.com/rant.cfm?id=415&page=4
+08-22 2001: Vmyths columnist Lewis Z. Koch continued in part 3 of "Netwar!" with a biopic on "Paul Mobbs, spokesperson and generally acknowledged leader of a small, but influential group of Internet mavens [known as] Electrohippies…"\nhttp://web.archive.org/web/20010926073325/http://www.vmyths.com/rant.cfm?id=375&page=4
+07-25 2001: Vmyths columnist Lewis Z. Koch continued in part 2 of "Netwar!" by analyzing its three main "battlefield" antagonists: terrorists, criminals, and "social" groups who fight online for racial equality & human rights…\n\nhttp://web.archive.org/web/20010805140110/http://www.vmyths.com/rant.cfm?id=349&page=4
+07-04 2001: two months *before* 9/11, Vmyths columnist Lewis Z. Koch picked America's holiday to publish part 1 of his series on "Netwar!" where computing itself is "engulfed by a new McCarthyist frenzy [and] technological witchhunt…"\nhttp://web.archive.org/web/20010803032503/http://vmyths.com/rant.cfm?id=343&page=4
+
+
+
+#                                                                                1                                                                                                   2                                                                               2
+#          3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8
+#    45678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+# All tweets begin with "THIS DATE IN HYSTERIA\n\n"
+
+# ellipsis: …
+################################################################################
+################################################################################
+#####                              VMYTHS.COM                              #####
+################################################################################
+################################################################################
+
+# Other columnists completed for best URLs, images, and Twitter names
+
+
+### George C. Smith, Ph.D
+# 2003
+07-07 2003: Vmyths editor-at-large George C. Smith, Ph.D published his last column\n"GOODBYE TO ALL THAT: How Vmyths Fought the Good Fight"\nhttp://web.archive.org/web/20030719050612/http://www.vmyths.com/rant.cfm?id=619&page=4\n\n(SPOILER: Vmyths never recovered)
+# 2002
+07-05 2002: Vmyths editor-at-large George C. Smith, Ph.D railed against repeated U.S. gov't failures to share information, even internally, in a column titled "Die Informationen macht frei":\nhttp://web.archive.org/web/20020713042758/http://vmyths.com/rant.cfm?id=495&page=4
+05-30 2002: Vmyths editor-at-large George C. Smith, Ph.D covered a funny U.S. State Dept press briefing where they claimed an "interloping spoofer" (!) spread a computer virus:\nhttp://web.archive.org/web/20021106125709/http://vmyths.com:80/rant.cfm?id=487&page=4
+05-15 2002: Vmyths editor-at-large George C. Smith, Ph.D reviewed some of the not-so-happy emails that spurred from a previous column "Oh, you milk-fattened ninnies!"\nhttp://web.archive.org/web/20021011092513/http://www.vmyths.com:80/rant.cfm?id=484&page=4
+05-02 2002, editor-at-large George C. Smith, Ph.D wrote one of his most controversial columns at Vmyths aptly titled "Oh, you milk-fattened ninnies!":\nhttp://web.archive.org/web/20020511041551/http://vmyths.com/rant.cfm?id=483&page=4
+02-23 2002: Vmyths editor-at-large George C. Smith, Ph.D looked back ten years at the #Michelangelo computer virus media fiasco:\nhttp://web.archive.org/web/20020306124805/http://vmyths.com/rant.cfm?id=464&page=4
+01-24 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2002/0124/Trustworthy.png]] 2002: Vmyths editor-at-large George C. Smith, Ph.D used his finely honed Scalpel of Opprobrium to vivisect the media blitz behind Microsoft's new "Trustworthy Computing®" initiative:\nhttp://web.archive.org/web/20020201181142/http://vmyths.com/rant.cfm?id=446&page=4
+01-10 2002: Vmyths editor-at-large George C. Smith, Ph.D took the skeptic's scalpel to "Yonah Alexander, a senior fellow at the Potomac Institute for Policy Studies" who fancied himself a #cyberwar expert:\nhttp://web.archive.org/web/20020116063638/http://vmyths.com/rant.cfm?id=440&page=4
+01-03 2002: Vmyths editor-at-large George C. Smith, Ph.D wrote a column titled "Freedom from Outside Interlopers Act (FfOIA)." We don't need to spell it out for you, do we-- oh wait, we did!\nhttp://web.archive.org/web/20020416112154/http://www.vmyths.com/rant.cfm?id=436&page=4
+# 2001
+11-28 2001: Vmyths editor-at-large George C. Smith, Ph.D asked "Why do the Code Red police get paid more than airline security folks? What makes them superior to the poor nebbishes who stare at airport X-ray machines?"\nhttp://web.archive.org/web/20011130045253/http://vmyths.com/rant.cfm?id=421&page=4
+10-26 2001: Vmyths editor-at-large George C. Smith, Ph.D wrote a story called "StrangeBug" where a computer virus was more deadly than militarized anthrax spores and where #antivirus experts worked in green plastic #hazmat suits\nhttp://web.archive.org/web/20011107134722/http://vmyths.com/rant.cfm?id=413&page=4
+10-10 2001: Vmyths editor-at-large George C. Smith, Ph.D called for the total obliteration of Earth at the hands of diabolical computer virus writers just so the fearmongers could scream "I TOLD YOU SO!" at the very end…\nhttp://web.archive.org/web/20011108042353/http://vmyths.com/rant.cfm?id=404&page=4
+09-19 2001: Vmyths editor-at-large George C. Smith, Ph.D confessed "I am dismayed by how quickly people have reverted to form in virus-land. It is as if nothing much has happened" just eight days after the Twin Towers fell…\nhttp://web.archive.org/web/20011009102610/http://www.vmyths.com/rant.cfm?id=394&page=4
+09-15 2001: Vmyths editor-at-large George C. Smith, Ph.D observed "The Hun came for America in whirling steel, death and flame, but not by keyboard. Cyber-terror, the Net, both meant nothing to the real thing" of terrorism…\nhttp://web.archive.org/web/20011102145243/http://vmyths.com/rant.cfm?id=388&page=4
+09-04 2001: Vmyths editor-at-large George C. Smith, Ph.D tore into the bankruptcy filing of iDefense and its morally bankrupt Chief Executive Fearmonger, James Adams\nhttp://web.archive.org/web/20011122005410/http://vmyths.com/rant.cfm?id=383&page=4
+08-29 2001: Vmyths editor-at-large George C. Smith, Ph.D published China's new Cyber-Wars pamphlet: "to defeat the prideful military of the Americans through the righteous uniting fists of stealthy digitized roaming mobile code…"\nhttp://web.archive.org/web/20011122001615/http://vmyths.com/rant.cfm?id=378&page=4
+08-13 2001: Vmyths editor-at-large George C. Smith, Ph.D sifted our inbox at Vmyths looking for gemstones -- a feat requiring both the acme of skill and the Juice of Sapho to complete it without going insane…\nhttp://web.archive.org/web/20010901051839/http://vmyths.com/rant.cfm?id=368&page=4
+08-07 2001: Vmyths editor-at-large George C. Smith, Ph.D opined on a Reuters newswire that focused on the hysteria behind Code Red's media coverage. In four words: "Token Computer Security Critic"…\nhttp://web.archive.org/web/20011031203136/http://vmyths.com/rant.cfm?id=363&page=4
+08-04 2001: Vmyths editor-at-large George C. Smith, Ph.D spat on the idea that the Code Red worm fizzled in any way because the media "educated" the teeming millions re: any sort of a global threat to computing…\nhttp://web.archive.org/web/20010818170128/http://vmyths.com/rant.cfm?id=361&page=4
+07-31 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2001/CodeRedSavesTheWorld.png]] 2001: Vmyths editor-at-large George C. Smith, Ph.D pondered why FBI held a press conference re: Code Red worm. "The media is not a brain surgeon's scalpel. It's a blunderbuss…"\nhttp://web.archive.org/web/20010805150511/http://vmyths.com/rant.cfm?id=355&page=4
+07-27 2001: Vmyths editor-at-large George C. Smith, Ph.D noted that cool heads prevailed in WWII whereas today's cyber war requires a healthy dose of #hysteria combined with an innate desire to, shall we say, "advance to the rear"…\nhttp://web.archive.org/web/20010805142308/http://vmyths.com/rant.cfm?id=351&page=4
+07-11 2001: Vmyths editor-at-large George C. Smith, Ph.D hiked through a labyrinthine maze of the U.S. government's fetish over cyber war and cyber terrorism. But … how did George find his way out of the maze to *end* this column?\nhttp://web.archive.org/web/20011109054416/http://vmyths.com/rant.cfm?id=346&page=4
+06-28 2001: Vmyths editor-at-large George C. Smith, Ph.D observed "foreign-conspiracy obsessed infrastructure security poison toads of industry and government are easily recognized" as they move in & around the Washington beltway…\nhttp://web.archive.org/web/20010801190534/http://vmyths.com/rant.cfm?id=337&page=4
+06-05 2001: Vmyths editor-at-large George C. Smith, Ph.D looked at how the U.S. exports breathless tales of cyber-woe to gullible foreign newspapers that love to reprint it…\nhttp://web.archive.org/web/20010801190805/http://www.vmyths.com/rant.cfm?id=330&page=4
+04-02 2001: Vmyths editor-at-large George C. Smith, Ph.D wrote part 2 of our series on "The China Syndrome" where U.S. antivirus firms got caught arming China with virus technology under the noses of the White House & FBI…\nhttp://web.archive.org/web/20010603204236/http://vmyths.com:80/rant.cfm?id=317&page=4
+# 2000
+12-22 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2000/ClarkeColdWinter.png]] 2000: Vmyths editor-at-large George C. Smith, Ph.D concluded his part 4-part series on #RichardClarke (aka #DrunkCyberczar) and his belief that "to foster information sharing, we must destroy *democratic* information sharing"…\nhttp://web.archive.org/web/20011109021645/http://www.vmyths.com/rant.cfm?id=341&page=4
+12-21 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2000/Aftergood.png]] 2000: Vmyths editor-at-large George C. Smith, Ph.D wrote part 3 of a 4-part series on #RichardClarke (aka #DrunkCyberczar) and his belief that "to foster information sharing, we must destroy *democratic* information sharing"…\nhttp://web.archive.org/web/20011109021145/http://www.vmyths.com/rant.cfm?id=340&page=4
+12-20 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2000/ClarkeFOIA.png]] 2000: Vmyths editor-at-large George C. Smith, Ph.D wrote part 2 of a 4-part series on #RichardClarke (aka #DrunkCyberczar) and his belief that "to foster information sharing, we must destroy *democratic* information sharing"…\nhttp://web.archive.org/web/20010818104904/http://vmyths.com/rant.cfm?id=339&page=4
+12-19 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2000/Clarke5Ws.png]] 2000: Vmyths editor-at-large George C. Smith, Ph.D wrote part 1 of a 4-part series on #RichardClarke (aka #DrunkCyberczar) and his belief that "to foster information sharing, we must destroy *democratic* information sharing"…\nhttp://web.archive.org/web/20010803051049/http://vmyths.com/rant.cfm?id=338&page=4
+12-18 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2000/FoxInHenHouse.png]] 2000: Vmyths editor-at-large George C. Smith, Ph.D opined on the White House's "Roundtable Discussion with Members of the Computer Anti-virus Community," the meeting to which Yours Truly was invited and attendend…\nhttp://web.archive.org/web/20010405112934/http://www.vmyths.com:80/rant.cfm?id=275&page=4
+05-28 2000: Vmyths editor-at-large George C. Smith, Ph.D asked "what should be the function of anti-virus companies and/or [FBI] NIPC virus-stoppers? To stop viruses and educate about them? Or just to alarm on them?"\n\nhttp://web.archive.org/web/20010116102100/http://vmyths.com:80/rant.cfm?id=150&page=4
+
+
+
+#                                                                                1                                                                                                   2                                                                               2
+#          3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8
+#    45678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+# All tweets begin with "THIS DATE IN HYSTERIA\n\n"
+
+# ellipsis: …
+################################################################################
+################################################################################
+#####                              VMYTHS.COM                              #####
+################################################################################
+################################################################################
+
+# Other columnists completed for best URLs, images, and Twitter names
+
+
+### Robert Vibert
+# 2003
+05-28 2003: Vmyths columnist Robert Vibert opined how the Uni­ver­sity of Cal­gary should re-model their com­pu­ter virus writing course to en­courage com­puter secu­rity rather than diminish it…\nhttp://web.archive.org/web/20031025141016/http://vmyths.com/rant.cfm?id=596&page=4
+05-07 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2003/0507/yelo-men.jpg]] 2003: Vmyths columnist Robert Vibert overhears two employees talking about #Symantec's long-running "yellow suit" ad campaign:\nhttp://web.archive.org/web/20030622162543/http://www.vmyths.com/rant.cfm?id=583&page=4
+# 2002
+03-06 2002: Vmyths columnist Robert Vibert explained how a vital #antivirus technology got shelved … and how the "razor & blades" economic model kept that vital technology shelved for *years*:\nhttp://web.archive.org/web/20020402232032/http://vmyths.com/rant.cfm?id=469&page=4
+02-06 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2002/symantec/yellow02.jpg]] 2002: Vmyths columnist Robert Vibert overhears two employees discuss Symantec's ad campaign in "the continuing saga of the men in yellow":\nhttp://web.archive.org/web/20020221091701/http://vmyths.com/rant.cfm?id=454&page=4
+09-26 2002: Vmyths columnist Robert Vibert packed his bags because Network Associates (nee "McAfee") had shown him that #antivirs software can take you to the Seven Wonders of the World! (But watch out for the fine print…)\nhttp://web.archive.org/web/20011009103219/http://www.vmyths.com/rant.cfm?id=398&page=4
+# 2001
+08-01 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2001/VibertThinks.png]] 2001: Vmyths columnist Robert Vibert looked at the Code Red media hype and … he came to a somewhat different conclusion than Yours Truly\n\nhttp://web.archive.org/web/20010803113511/http://vmyths.com/rant.cfm?id=357&page=4
+07-30 2001: Vmyths columnist Robert Vibert slapped the FBI: "such a large agency, with a dedicated malicious code section, did not have in place the simple rudimentary tools" to stop viruses going out from FBI's own mail servers\nhttp://web.archive.org/web/20010805144902/http://vmyths.com/rant.cfm?id=354&page=4
+07-04 2001: Vmyths columnist Robert Vibert overhears a CEO getting briefed by his CIO and an employee we'll call "Joe" regarding Symantec's long-running ad campaign for "the men in yellow":\nhttp://web.archive.org/web/20010803031731/http://vmyths.com/rant.cfm?id=342&page=4
+05-20 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2001/AntivirusVC.png]] 2001: Vmyths columnist Robert Vibert described how venture capitalists and #antivirus firms live in different worlds and "never the twain shall meet"…\nhttp://web.archive.org/web/20011108052742/http://vmyths.com:80/rant.cfm?id=325&page=4
+02-16 2001: Vmyths columnist Robert Vibert used the Kournikova virus to prove "the more things change, the more they stay the same" regardless whether you talk about the #antivirus industry or their customers…\nhttp://web.archive.org/web/20010408041822/http://vmyths.com:80/rant.cfm?id=305&page=4
+
+
+
+#                                                                                1                                                                                                   2                                                                               2
+#          3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8         9         0         1         2         3         4         5         6         7         8
+#    45678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+# All tweets begin with "THIS DATE IN HYSTERIA\n\n"
+
+# ellipsis: …
+################################################################################
+################################################################################
+#####                              VMYTHS.COM                              #####
+################################################################################
+################################################################################
+
+# Other columnists completed for best URLs, images, and Twitter names
+
+
+### Vox Populi
+# 2005
+07-21 2005: we republished the now-billionaire #antivirus mogul Eugene Kaspersky (!) on how the term 'spyware' is a marketing gimmick:\nhttp://web.archive.org/web/20051121153557/http://vmyths.com/rant.cfm?id=726&page=4
+03-18 2005: a deprogrammed GRC fanatic writing under pseudonym revealed how "I was duped by Steve Gibson":\nhttp://web.archive.org/web/20050330172056/http://vmyths.com/rant.cfm?id=716&page=4
+02-17 2005: a member of the computer security industry plowed into Yours Truly. We titled it "Your writing is a train wreck, morbidly interesting and yet sadly horrifying":\nhttp://web.archive.org/web/20050219215730/http://www.vmyths.com:80/rant.cfm?id=709&page=4
+01-05 2005: a letter to the editor requesting anonymity slapped Yours Truly for holding a myopic Ameri-centric viewpoint. "Ouch!"\nhttp://web.archive.org/web/20050206194515/http://www.vmyths.com/rant.cfm?id=700&page=4
+
+# 2004
+12-17 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2004/DonateToCCSC.png]] 2004: Allen Dyer at #antivirus firm Yui Kee Computing Ltd opined that #dkmatai's shill firm "mi2g" had switched to a "'new' worst nightmare, 'hate sites'": specifically, Vmyths:\nhttp://web.archive.org/web/20050106012617/http://vmyths.com:80/rant.cfm?id=691&page=4
+12-03 2004: Canada's "Globe and Mail" newspaper published an ABRIDGED "restricted" commentary #dkmatai's shill firm "mi2g" sent to clients. Vmyths reprinted the UNABRIDGED version:\nhttp://web.archive.org/web/20041226041550/http://vmyths.com/rant.cfm?id=689&page=4
+08-17 [[/home/rob/Twitter/accounts/vmyths/photos/rants/2004/0731/mi2g-err.jpg]] 2004: #dkmatai's shill firm "mi2g" sent a 'cease & desist' to our "Letters to the Editor" email address. So, yeah: we published the back-and-forth emails:\nhttp://web.archive.org/web/20040910122209/http://vmyths.com/rant.cfm?id=669&page=4\n\nPlus we recorded a voicemail!\nhttps://youtu.be/pny9tQRk9mQ
+08-16 2004: we reprinted a person on the "Full Disclosure" mailing list who opined that a #parody "mi2g" alert should instead be classified as a "hoax" with "dangerous" connotations:\nhttp://web.archive.org/web/20050215205147/http://vmyths.com/rant.cfm?id=667&page=4
+
+# 2003
+07-07 2003: guest writer Eric Baer told the tale of a "cyber-security" wonk who often ducked into a phone booth so he could emerge as "MCSE Virus Fighter!"\nhttp://web.archive.org/web/20030719050612/http://www.vmyths.com/rant.cfm?id=619&page=4
+07-03 2003: guest writer John Hanson wondered if #SCADA stands for "Secret Continental Airlines Digital Automation"…\nhttp://web.archive.org/web/20050214213515/http://www.vmyths.com/rant.cfm?id=617&page=4
+06-20 2003: Steve Gibson (yes!) blogged about people who "presumably care more about cheap laughter than truth and reality." So, yeah: Vmyths republished his blog verbatim:\nhttp://web.archive.org/web/20030629230829/http://www.vmyths.com/rant.cfm?id=613&page=4
+06-04 2003: proud Canadian Brad Haines offered his $0.02 in Canuck pennies regarding the University of Calgary's new course on how to write computer viruses…\nhttp://web.archive.org/web/20040320105629/http://vmyths.com:80/rant.cfm?id=602&page=4
+05-21 2003: Allen Dyer at #antivirus firm Yui Kee Computing Ltd opined that contrary to a core Vmyths assertion, #cyber security is not a "fit and forget" product:\nhttp://web.archive.org/web/20030609161802/http://vmyths.com/rant.cfm?id=594&page=4
+04-28 2003: Tool aficionado Matthew Bylsma opined that #MarcMaiffret got caught in the Undertow when he testified before Congress:\nhttp://web.archive.org/web/20030520065011/http://www.vmyths.com/rant.cfm?id=577&page=4
+03-15 2003: renowned #antivirus expert Dr. Vesselin Bontchev of FRISK Software wrote a rebuttal where he asserted "time will tell who was right": the fea^H^H^Hexperts or the skeptics\nhttp://web.archive.org/web/20030624034035/http://vmyths.com/rant.cfm?id=548&page=4
+
+# 2002
+12-25 2002: we republished Usenet participant "Snowsquall" who wrote a hilarious post saying "Yes Melissa, there is a Santa Klez:":\nhttp://web.archive.org/web/20030111121003/http://www.vmyths.com/rant.cfm?id=531&page=4
+04-03 2002: reader Ron Dowle quoted Voltaire on the topic of computer viruses:\nhttp://web.archive.org/web/20021108145009/http://vmyths.com/rant.cfm?id=477&page=4
+04-02 2002: reader John P. Hogan wrote an "Open letter from a net admin to managers":\nhttp://web.archive.org/web/20020615221429/http://vmyths.com/rant.cfm?id=476&page=4
+
+
 
